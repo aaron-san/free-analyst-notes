@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equities on Free Analyst Notes</title>
-    <link>https://blissful-saha-1043e8.netlify.com/categories/equities/</link>
+    <link>/categories/equities/</link>
     <description>Recent content in Equities on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020, Invest-With-R; all rights reserved.</copyright>
     
-	<atom:link href="https://blissful-saha-1043e8.netlify.com/categories/equities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/equities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cfa Level 1 Equities</title>
-      <link>https://blissful-saha-1043e8.netlify.com/post/cfa-level-1-equities/</link>
+      <link>/post/cfa-level-1-equities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blissful-saha-1043e8.netlify.com/post/cfa-level-1-equities/</guid>
+      <guid>/post/cfa-level-1-equities/</guid>
       <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsShort SellingIndexes/IndicesConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
     </item>
     
