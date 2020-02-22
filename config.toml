@@ -1,4 +1,4 @@
-baseurl = "https://freeanalystnotes.com//"  # Include trailing slash# "cepic-brattain-a9e0eb.netlify.com//"  # Include trailing slash
+baseurl = "https://cepic-brattain-a9e0eb.netlify.com//"  # Include trailing slash# "cepic-brattain-a9e0eb.netlify.com//"  # Include trailing slash
 title = "Free Analyst Notes"
 theme = "hugo-swift-theme"
 author = "Free Analyst Notes"
