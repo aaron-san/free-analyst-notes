@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Free Analyst Notes</title>
-    <link>https://freeanalystnotes.com//categories/</link>
+    <link>https://epic-brattain-a9e0eb.netlify.com//categories/</link>
     <description>Recent content in Categories on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020, Invest-With-R; all rights reserved.</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://freeanalystnotes.com//categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epic-brattain-a9e0eb.netlify.com//categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>https://freeanalystnotes.com//categories/r/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/r/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://freeanalystnotes.com//categories/development/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/development/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://freeanalystnotes.com//categories/golang/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/golang/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternative Investments</title>
-      <link>https://freeanalystnotes.com//categories/alternative-investments/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/alternative-investments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/alternative-investments/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/alternative-investments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CFA Level 1</title>
-      <link>https://freeanalystnotes.com//categories/cfa-level-1/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/cfa-level-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/cfa-level-1/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/cfa-level-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equities</title>
-      <link>https://freeanalystnotes.com//categories/equities/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/equities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/equities/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/equities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethics</title>
-      <link>https://freeanalystnotes.com//categories/ethics/</link>
+      <link>https://epic-brattain-a9e0eb.netlify.com//categories/ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freeanalystnotes.com//categories/ethics/</guid>
+      <guid>https://epic-brattain-a9e0eb.netlify.com//categories/ethics/</guid>
       <description></description>
     </item>
     
