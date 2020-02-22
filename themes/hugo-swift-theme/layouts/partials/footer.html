@@ -1,0 +1,12 @@
+<footer class = 'footer'>
+  <div class = 'footer_inner wrap pale'>
+    <p>&copy;&nbsp;<span class = 'year'></span>&nbsp;{{ .Site.Title }}.
+    {{ i18n "designed_by" .Site.Data.designer | safeHTML }}</p>
+  </div>
+  {{ partial "mathjax_support.html" . }}
+</footer>
+{{- $mainScriptPath := "js/index.js" }}
+{{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+<script src = '{{ $scripts.Permalink }}'></script>
+
+
