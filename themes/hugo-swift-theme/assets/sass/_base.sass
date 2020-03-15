@@ -10,7 +10,7 @@ body, html
 body
   font-family: var(--font)
   background-image: radial-gradient(white, lightgrey)
-  //background-color: var(--bg)
+  background-color: var(--bg)
   color: var(--darkgray)
   font-size: 16px
   line-height: 1.5
@@ -114,8 +114,34 @@ main
 
 ul
   list-style: none
+  padding-left: 3rem
+  margin-left: 20px
   -webkit-padding-start: 0
   -moz-padding-start: 0
+
+//ul li:not(.post_item)
+  //&::before
+  //content: none
+  //color: var(--darkgray)
+  //width: 0px
+  //height: 0px
+
+ul 
+  li
+    //margin: 0 0 0.5rem 0
+    counter-increment: my-awesome-counter
+    position: relative
+    //padding-left: 0.5rem !important
+    &:not(.post_item)
+      &::before
+        content: "\25AA" //"\2022"
+        color: var(--theme)
+        display: inline-block
+        width: 10px
+        height: 10px
+        margin-left: -20px
+        margin-right: 10px
+
 
 b, strong, em 
   font-weight: 500
@@ -141,6 +167,7 @@ ol
   @media screen and (min-width: 667px)
     // margin-left: 1rem
   li 
+    //list-style-type: circle
     margin: 0 0 0.5rem 0
     counter-increment: my-awesome-counter
     position: relative

@@ -21,7 +21,7 @@
     &::before 
       padding: 1px
       border-radius: 2px
-      background-color: var(--light)
+      background-color: var(--text)
     
     &::after,
     &::before 
@@ -67,11 +67,14 @@
     
   
   &-brand
-    font-family: 'Verdana'
-    font-size: 2em !important
+    display: grid
+    font-family: 'Lato', sans-serif
+    font-size: 3em !important
+    //color: var(--theme)
     padding-top: 0 !important
     padding-bottom: 0 !important
-  
+    text-shadow: 0 0.75px 0 0.75px gray
+      
   &-close 
     display: flex
     justify-content: flex-start
