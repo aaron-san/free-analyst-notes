@@ -1,20 +1,32 @@
+// Should use blogdown::stop_server() and blogdown::serve_site() to view changes
+
 .nav
   position: absolute
   top: 0
   width: 100%
   transition: height 0.4s cubic-bezier(0.52, 0.16, 0.24, 1)
   z-index: 999
+  background-color: var(--bubble)
+  
   &_bar 
     width: 100%
     position: relative
+    
+    
+    // Home page navigation dropdown //
     &-wrap 
-      width: 1.8rem
+      width: 2.5rem
       height: 1.8rem
       display: grid
       align-items: center
+      padding: 3px
       cursor: pointer
       z-index: 99
       min-height: 1.5rem
+      margin-left: 5px
+      background-color: var(--theme)
+      border-radius: 2px
+      box-shadow: 0 1rem 4rem rgba(0,0,0,0.5)
     
     &,
     &::after,
@@ -47,10 +59,10 @@
     overflow: hidden
     transition:top 0.33s linear
     background: transparent
-    background-color: var(--accent)
+    background-color: var(--bubble)
     width: 16rem
     padding: 100px 0
-    min-height: 100vh
+    min-height: 40vh
     z-index: 1
     &:hover 
       box-shadow: 0 1.5rem 6rem rgba(0,0,0,0.27)
@@ -65,15 +77,26 @@
         color: var(--theme)
       
     
+  // Site Title //
   
+  // (should use stop_server() and serve_site() to update)
   &-brand
     display: grid
-    font-family: 'Lato', sans-serif
-    font-size: 3em !important
+    font-family: "Times New Roman", Times, serif
+    // "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 2.2em !important 
+    color: var(--theme)
+    //background-image:
+      //linear-gradient(45deg, pink,)
     //color: var(--theme)
+    //text-decoration: underline orange
+    //text-decoration-style: dashed
+    border-bottom: 1px solid var(--theme)
+    background-color: var(--bubble)
     padding-top: 0 !important
     padding-bottom: 0 !important
-    text-shadow: 0 0.75px 0 0.75px gray
+    //color: white
+    text-shadow: 0 1.75px 0 1.75px grey
       
   &-close 
     display: flex
@@ -120,12 +143,14 @@
     display: flex
     align-items: center
     justify-content: space-between
+    // Title font
     a 
-      color: inherit
+      // Font color
+      color: #F8F8FF //#FFFFFF, #FFFFFF 
       width: 100%
       display: block
-      padding: 10px 25px
-      font-size: 105%
+      padding: 10px 10px  10px 25px
+      //font-size: 105%
     
   &-pop
     position: fixed
@@ -135,6 +160,7 @@
   &-open 
     animation: showMenu 0.2s cubic-bezier(0.52, 0.16, 0.24, 1) forwards
   
-  &_item 
-    text-transform: capitalize
+  
+  &_item // Navigation menu text
+    color: #F8F8FF
   

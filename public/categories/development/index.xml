@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Free Analyst Notes</title>
+    <title>development on Free Analyst Notes</title>
     <link>/categories/development/</link>
-    <description>Recent content in Development on Free Analyst Notes</description>
+    <description>Recent content in development on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020, Invest-With-R; All rights reserved.</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
@@ -36,11 +36,11 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>CFA Level 1 - Economics</title>
-      <link>/post/cfa-level-1-economics/</link>
+      <title>CFA Level 1: Economics</title>
+      <link>/cfa-level-1/cfa-level-1-economics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-1-economics/</guid>
+      <guid>/cfa-level-1/cfa-level-1-economics/</guid>
       <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
     </item>
     

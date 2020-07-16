@@ -6,7 +6,7 @@
 
 body, html 
   scroll-behavior: smooth
-
+  
 body
   font-family: var(--font)
   background-image: radial-gradient(white, lightgrey)
@@ -28,6 +28,7 @@ body
 a
   text-decoration: none
   color: inherit
+  
 
 blockquote 
   opacity: 0.8
@@ -112,35 +113,56 @@ main
   padding-bottom: 45px
   flex: 1
 
-ul
-  list-style: none
-  padding-left: 3rem
-  margin-left: 20px
-  -webkit-padding-start: 0
-  -moz-padding-start: 0
-
-//ul li:not(.post_item)
-  //&::before
-  //content: none
-  //color: var(--darkgray)
-  //width: 0px
-  //height: 0px
 
 ul 
+  //list-style-type: square
+  //list-style-position: inside
+  //display: block
+  //margin-left: 1em
+  
+  
   li
-    //margin: 0 0 0.5rem 0
-    counter-increment: my-awesome-counter
+    list-style-type: none // remove default bullet
+    //counter-increment: my-awesome-counter
+    //position: relative
+    //background: lightgrey
+    //display: block
+    display: block
+    padding: 10px
+    border-radius: 2%
     position: relative
-    //padding-left: 0.5rem !important
+    margin-left: 20px
+    //background: lightgrey
+    
+    //width: 10px
+        //height: 10px
+      
     &:not(.post_item)
       &::before
-        content: "\25AA" //"\2022"
-        color: var(--theme)
-        display: inline-block
-        width: 10px
-        height: 10px
-        margin-left: -20px
+        
+        // List item bullets
+        //position: relative
+        //left: -10px
+        //top: 5px
+        content: ' '  //"\25AA"  //"\2022" "\f058"
+        display: block
+        width: 7px
+        height: 7px
+        background: #eee
+        border: solid 1px var(--theme)
+        position: absolute
+        top: 12px
+        left: -27px 
+        //color: var(--theme)
+        margin-left: 10px
         margin-right: 10px
+        
+        
+        
+  //li:nth-child(2)
+        //&::before
+          //content: "\2022"
+          //color: black
 
 
 b, strong, em 

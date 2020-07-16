@@ -6,21 +6,10 @@
     <description>Recent content on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020, Invest-With-R; All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -28,8 +17,8 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
-We&#39;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -75,34 +64,34 @@ Follow the following steps:
       <guid>/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1 - Economics</title>
-      <link>/post/cfa-level-1-economics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-economics/</guid>
-      <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
-    </item>
-    
-    <item>
-      <title>Cfa Level 1 Equities</title>
-      <link>/post/cfa-level-1-equities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-equities/</guid>
-      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsShort SellingIndexes/IndicesConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
       <title>CFA Level 1: Alternative Investments</title>
-      <link>/post/cfa-level-1-alternative-investments/</link>
+      <link>/cfa-level-1/cfa-level-1-alternative-investments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-1-alternative-investments/</guid>
+      <guid>/cfa-level-1/cfa-level-1-alternative-investments/</guid>
       <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Economics</title>
+      <link>/cfa-level-1/cfa-level-1-economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfa-level-1/cfa-level-1-economics/</guid>
+      <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Equities</title>
+      <link>/cfa-level-1/cfa-level-1-equities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfa-level-1/cfa-level-1-equities/</guid>
+      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsShort SellingIndexes/IndicesConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
     </item>
     
   </channel>
