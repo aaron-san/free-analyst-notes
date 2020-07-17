@@ -1,41 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CFA Level 1 on Free Analyst Notes</title>
-    <link>/categories/cfa-level-1/</link>
-    <description>Recent content in CFA Level 1 on Free Analyst Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2020, Invest-With-R; All rights reserved.</copyright>
-    
-	<atom:link href="/categories/cfa-level-1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/cfa-level-1/cfa-level-1-alternative-investments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cfa-level-1/cfa-level-1-alternative-investments/</guid>
-      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Economics</title>
-      <link>/cfa-level-1/cfa-level-1-economics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cfa-level-1/cfa-level-1-economics/</guid>
-      <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Equities</title>
-      <link>/cfa-level-1/cfa-level-1-equities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cfa-level-1/cfa-level-1-equities/</guid>
-      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsShort SellingIndexes/IndicesConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
-    </item>
-    
-  </channel>
-</rss>

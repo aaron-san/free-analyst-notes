@@ -1,36 +1,35 @@
-baseurl = "https://www.freeanalystnotes.com//"  # Include trailing slash# "https://epic-brattain-a9e0eb.netlify.com//"  # Include trailing slash
-title = "Free Analyst Notes"
-theme = "hugo-swift-theme"
-author = "Free Analyst Notes"
-copyright = "Copyright 2020, Invest-With-R; All rights reserved."
-canonifyurls = true
-paginate = 4
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+baseurl = "https://www.freeanalystnotes.com//"
+title = "Mainroad"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[Author]
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
 
-# Enable syntax highlighting
-# comment on delete the following lines 11 ~ 13
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
-[params]
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+[Params]
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
 
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
-  # logo = "logo.png"
-  # author = "Weru" # default author
-  # image = "placeholder-image.png" # used whenever a page image is not set
-  # blogDir = "blogFolderName" # uncomment and edit to exclude normal pages ... see issue #57
+[Params.logo]
+  subtitle = "Just another site" # Logo subtitle
 
-# [params.staticman]
-#   endpoint = ""  # URL of your own API deployment (without trailing slash), default: "https://staticman-frama.herokuapp.com"
-#   gitProvider = "github"  # Either "github" or "gitlab"
-#   username = "username"  # GitHub/GitLab user name
-#   repository = "repo"  # GitHub/GitLab user name
-#   branch = "master"  # Branch holding the source code for your site, should match the `branch` parameter in `staticman.yml`
-#
-#   # If you use reCAPTCHA v2, you must also set these parameters in staticman.yml
-#   [Params.staticman.reCaptcha]
-#     siteKey = ""  # Use your own site key, you need to apply for one on Google
-#     secret  = ""  # ENCRYPT your password by going to https://<staticman-endpoint>/v3/encrypt/<your-site-secret>
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist"]
 
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

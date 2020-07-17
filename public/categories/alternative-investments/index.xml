@@ -1,23 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Alternative Investments on Free Analyst Notes</title>
-    <link>/categories/alternative-investments/</link>
-    <description>Recent content in Alternative Investments on Free Analyst Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2020, Invest-With-R; All rights reserved.</copyright>
-    
-	<atom:link href="/categories/alternative-investments/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/cfa-level-1/cfa-level-1-alternative-investments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cfa-level-1/cfa-level-1-alternative-investments/</guid>
-      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
-    </item>
-    
-  </channel>
-</rss>

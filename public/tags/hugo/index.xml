@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Free Analyst Notes</title>
+    <title>hugo on Mainroad</title>
     <link>/tags/hugo/</link>
-    <description>Recent content in hugo on Free Analyst Notes</description>
+    <description>Recent content in hugo on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2020, Invest-With-R; All rights reserved.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />

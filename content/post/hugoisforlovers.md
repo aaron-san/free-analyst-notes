@@ -3,8 +3,7 @@ categories:
 - Development
 - golang
 date: "2014-04-02"
-description: ""
-image: stuck.jpg
+menu: main
 tags:
 - go
 - golang
@@ -29,10 +28,10 @@ you are reading right now.
 
 Follow the following steps:
 
- 1. Clone the [Hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
+1. Clone the [Hugo repository](https://github.com/spf13/hugo)
+2. Go into the repo
+3. Run hugo in server mode and build the docs
+4. Open your browser to http://localhost:1313
 
 Corresponding pseudo commands:
 

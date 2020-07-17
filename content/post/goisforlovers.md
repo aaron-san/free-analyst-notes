@@ -3,14 +3,14 @@ categories:
 - Development
 - golang
 date: "2014-04-02"
-description: ""
-image: fast-lane.jpg
+menu: main
 tags:
 - go
 - golang
 - templates
 - themes
 - development
+thumbnail: img/placeholder.png
 title: (Hu)go Template Primer
 ---
 
@@ -20,6 +20,8 @@ small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in Go templates.
+
+<!--more-->
 
 This document is a brief primer on using Go templates. The [Go docs][gohtmltemplate]
 provide more details.
@@ -321,7 +323,7 @@ and skips the block if the variable is absent:
 {{with .Site.Params.TwitterUser}}<span class="twitter">
 <a href="https://twitter.com/{{.}}" rel="author">
 <img src="/images/twitter.png" width="48" height="48" title="Twitter: {{.}}"
- alt="Twitter"></a>
+alt="Twitter"></a>
 </span>{{end}}
 ```
 

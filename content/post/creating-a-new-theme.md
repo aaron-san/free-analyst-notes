@@ -1,9 +1,9 @@
 ---
 author: Michael Henderson
 date: "2014-09-28"
-image: artist.jpg
 title: Creating a New Theme
 ---
+
 
 ## Introduction
 
@@ -939,7 +939,7 @@ $ cat public/index.html
     <h1><a href="http://localhost:1313/post/first-post/">first</a></h1>
 <script>document.write('<script src="http://'
         + (location.host || 'localhost').split(':')[0]
-    + ':1313/livereload.js?mindelay=10"></'
+        + ':1313/livereload.js?mindelay=10"></'
         + 'script>')</script></body>
 </html>
 ```
