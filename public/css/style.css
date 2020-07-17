@@ -16,6 +16,7 @@ main,
 nav,
 section {
 	display: block;
+	/*background-image: radial-gradient(white, lightgrey); */
 }
 
 :focus::-webkit-input-placeholder {
@@ -66,7 +67,7 @@ body {
 
 .wrapper {
 	padding: 25px;
-	background: #fff;
+	background-image: radial-gradient(white, lightgrey);
 }
 
 .flex {
@@ -378,7 +379,7 @@ select {
 
 /* Header */
 .header {
-	background: #fff;
+	background: black;
 }
 
 .logo {
@@ -420,7 +421,7 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	color: white;
 }
 
 .logo__tagline {
