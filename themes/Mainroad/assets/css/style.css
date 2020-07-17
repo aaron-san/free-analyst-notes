@@ -424,6 +424,9 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: white;
+	border-bottom: 2px solid transparent;
+	border-image: linear-gradient(to right, transparent, #FF6347, #FF6347, #FF6347, transparent);
+    border-image-slice: 1;
 }
 
 .logo__tagline {
@@ -435,7 +438,7 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: {{ $highlightColor }};
-	border-top: 1px solid #ebebeb;
+	/* border-top: 1px solid #ebebeb; */
 }
 
 .divider {
