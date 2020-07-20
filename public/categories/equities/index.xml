@@ -17,7 +17,7 @@
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-equities/</guid>
-      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
+      <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>CFA Level 1CFA Level 2CFA Level 3Ethicsright-alignedEthicsGIPScenteredPortfolio ManagementEquitiesare neat$1</description>
+      <description>Our blog&amp;rsquo;s theme started as the theme hugo-tufte but has sense been modified a lot. I&amp;rsquo;ve been asked to put it up as a theme for other to use, here it is!</description>
     </item>
     
   </channel>

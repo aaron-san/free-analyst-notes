@@ -8,7 +8,7 @@ categories:
 tags:
 - Alternative Investments
 # - regression
-excerpt: "Our blog's theme started as the theme hugo-tufte but has sense been modified a lot. I've been asked to put it up as a theme for other to use, here it is!"
+summary: "Alternative investments is a growing field full of potential profit opportunies. Learn about the basics here."
 output:
       blogdown::html_page:
             toc: true

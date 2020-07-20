@@ -7,7 +7,7 @@ categories:
 - CFA Level 1
 tags:
 - Equities
-excerpt: "The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more."
+summary: "The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more."
 output:
       blogdown::html_page:
             toc: true

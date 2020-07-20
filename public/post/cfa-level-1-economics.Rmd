@@ -3,20 +3,20 @@ title: 'CFA Level 1 - Economics'
 date: '`r Sys.Date()`'
 slug: cfa-level-1-economics
 categories: 
-- Ethics
-- development
 - CFA Level 1
 tags:
 - Economics
-# - regression
-excerpt: "Our blog's theme started as the theme hugo-tufte but has sense been modified a lot. I've been asked to put it up as a theme for other to use, here it is!"
+mathjax: true
+thumbnail: ""
+lead: "Example lead - highlighted near the title" # Lead text
+comments: false # Enable Disqus comments for specific page      
 output:
       blogdown::html_page:
             toc: true
+summary: "The CFA level 1 exam covers economics in great detail, specifically, macroeconomics. It covers demand and supply, market structures, and more."
 ---
 
-
-# _Supply and Demand_                                                   
+# Supply and Demand   
 
 ## Determinants of Demand								
 * Income									
@@ -44,23 +44,24 @@ output:
 * Closeness and number of substitutes										* Proportion of income spent on the goods
 * Time elapsed since price change (search for substitutes)												
 												
-## Cross Elasticity of Demand										
+## Cross Elasticity of Demand
+
 * $\mathrm {\large {E_{c} = \frac{\text{%}\Delta \text{Quantity demanded}} {\text{%} \Delta \text{Price of substitute or complement}}}}$
 * Value is positive for a substitute
 * Value is negative for a complement										
 
 ## Income Elasticity of Demand
+
 * $\mathrm {\large {E_{i} = \frac{\text{%}\Delta \text{Quantity Demanded}} {\text{%} \Delta Income}}}$
 
 * Value is greater than 1 (normal good, income elastic)
 * Value is between 0 and 1 (normal good, income inelastic)
 * Value is negative (inferior good)										
-
-												
+									
 ## Price Elasticity of Supply
+
 * $\mathrm {\large {E_{p} = \frac{\text{%}\Delta \text{Quantity Supplied}} {\text{%} \Delta Price} = \frac{\Delta Q_{s} \div Q_{ave}} {\Delta P \div {P_{ave}}}}}$
 * Concerned with absolute value											
-
 ## Factors that influence Elasticity of Supply
  * Resource substitution possibilities				
  * Time frame for the supply decision
@@ -72,7 +73,7 @@ output:
       3. Short-run supply (SRS)
             * Shows how the quantity supplied responds to a price change wen only some of the technologically possible adjustemnt s to production have been made.												
 
-# _Macro Economy_												
+# Macro Economy
 
 ## Gross Domestic Product (GDP)								
 * GDP = C + I + G + EX								
