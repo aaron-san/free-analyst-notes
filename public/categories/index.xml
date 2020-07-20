@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternative Investments</title>
+      <link>/categories/alternative-investments/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/alternative-investments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1</title>
+      <link>/categories/cfa-level-1/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cfa-level-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -35,24 +53,6 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alternative Investments</title>
-      <link>/categories/alternative-investments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/alternative-investments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1</title>
-      <link>/categories/cfa-level-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cfa-level-1/</guid>
       <description></description>
     </item>
     

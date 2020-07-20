@@ -1,7 +1,6 @@
 ---
 title: 'CFA Level 1: Alternative Investments'
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
-mathjax: true
+date: "`r Sys.Date()`"
 slug: cfa-level-1-alternative-investments
 categories: 
 - Alternative Investments
@@ -13,6 +12,7 @@ excerpt: "Our blog's theme started as the theme hugo-tufte but has sense been mo
 output:
       blogdown::html_page:
             toc: true
+mathjax: true
 ---
 
 

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CFA Level 1: Alternative Investments</title>
+      <link>/post/cfa-level-1-alternative-investments/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-alternative-investments/</guid>
+      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
+    </item>
     
     <item>
       <title>Basic HTML Elements</title>
@@ -78,15 +87,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/post/cfa-level-1-alternative-investments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
     </item>
     
   </channel>
