@@ -1,6 +1,7 @@
 ---
 title: 'CFA Level 1: Alternative Investments'
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
+mathjax: true
 slug: cfa-level-1-alternative-investments
 categories: 
 - Alternative Investments
@@ -81,7 +82,12 @@ output:
 * N = number of days until settlement
 * M =number of days in contract and loan period ("total time")
 
-* $\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac{\left(floating\ -\ forward\right)\left(\frac{days}{360}\right)}{1+\left(floating\right)\left(\frac{days}{360}\right)}}}$
+* 
+
+$$\mathcal{N}(0,\,1)$$
+
+$\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac{\left(floating\ -\ forward\right)\left(\frac{days}{360}\right)}{1+\left(floating\right)\left(\frac{days}{360}\right)}}}$
+
       + days = number of days in the loan term
 * For example, the contract might specify a 90-day FRA term and a 180-day underlying (the FRA contract rate)
 
