@@ -19,8 +19,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  mathjax = true
+  mathjaxPath = "https://cdnjs.cloudfare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+
+
 
 [Params.logo]
+  image = "" # "img/placeholder.png"
   subtitle = "CFA Study Notes" # Logo subtitle
 
 [Params.sidebar]
