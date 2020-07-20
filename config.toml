@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
   mathjax = true
   mathjaxPath = "https://cdn.mathjax.org/mathjax/latest/MathJax.js"
-  mathjaxConfig = "TeX-AMS-MML_MML_SVG"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
 
 
