@@ -80,28 +80,22 @@ output:
 ## "NxM" Notation											
 * N = number of days until settlement
 * M =number of days in contract and loan period ("total time")
-
-* 
-
-$$\mathcal{N}(0,\,1)$$
-
-$\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac{\left(floating\ -\ forward\right)\left(\frac{days}{360}\right)}{1+\left(floating\right)\left(\frac{days}{360}\right)}}}$
-
-      + days = number of days in the loan term
+$\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac{\left(floating\ -\ forward\right)\left(\frac{days}{360}\right)}{1+\left(floating\right)\left(\frac{days}{360}\right)}}}$      
+* Days = number of days in the loan term
 * For example, the contract might specify a 90-day FRA term and a 180-day underlying (the FRA contract rate)
 
 ## T-Bill Futures Contract							
-* Based on `$`1,000,000 face value of 90-day T-bill and settle in cash
+* Based on $1,000,000 face value of 90-day T-bill and settle in cash
 * Quoted as (100 - annualized T-bill rate in percent)							
 * Less favorable than Eurodollar futures contracts							
-* Every change in price of `$`0.01 in the price of a T-bill futures contract is worth `$`25							
+* Every change in price of $0.01 in the price of a T-bill futures contract is worth $25							
 							
 ## Eurodollar Futures							
 * Add-on yield, rather than a discount yield							
 * Quoted as (100 - annualized LIBOR in percent)							
-* Every change in price of `$`0.01 in the price of a T-bill futures contract is worth `$`25							
+* Every change in price of $0.01 in the price of a T-bill futures contract is worth $25							
 							
-***Note:*** One Tick = 0.01% = 0.0001*
+***Note:*** One Tick = 0.01% = 0.0001
 
 
 ## Currency Forward Contract							
