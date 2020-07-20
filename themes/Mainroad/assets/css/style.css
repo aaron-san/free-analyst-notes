@@ -382,6 +382,7 @@ select {
 /* Header */
 .header {
 	background: black;
+	color: white;
 }
 
 .logo {

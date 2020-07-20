@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Equities</title>
       <link>/categories/equities/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
@@ -39,11 +48,11 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Ethics</title>
+      <link>/categories/ethics/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>/categories/ethics/</guid>
       <description></description>
     </item>
     
@@ -66,11 +75,20 @@
     </item>
     
     <item>
-      <title>Ethics</title>
-      <link>/categories/ethics/</link>
+      <title>Economics</title>
+      <link>/categories/economics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ethics/</guid>
+      <guid>/categories/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIPS</title>
+      <link>/categories/gips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gips/</guid>
       <description></description>
     </item>
     

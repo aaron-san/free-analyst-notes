@@ -1,0 +1,31 @@
+---
+title: 'CFA Study Topics'
+date: ''
+linktitle: CFA Study Topics
+menu:
+  main:
+    name: CFA Study Topics
+    weight: 1
+slug: cfa-study-topics
+categories: 
+- Ethics
+- Equities
+- GIPS
+- Economics
+tags:
+excerpt: "Our blog's theme started as the theme hugo-tufte but has sense been modified a lot. I've been asked to put it up as a theme for other to use, here it is!"
+output:
+      blogdown::html_page
+---
+
+
+| CFA Level 1 | CFA Level 2 | CFA Level 3 |
+|:----------- |:----------- |:----------- |
+| _Ethics_    | right-aligned | Ethics |
+| _GIPS_      | centered      | Portfolio Management |
+| [_Equities_](/post/cfa-level-1-equities) | are neat      |    $1 |
+
+
+
+
+

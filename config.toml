@@ -24,7 +24,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
 
-
 [Params.logo]
   image = "" # "img/placeholder.png"
   subtitle = "CFA Study Notes" # Logo subtitle

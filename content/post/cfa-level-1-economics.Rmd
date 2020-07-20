@@ -1,6 +1,6 @@
 ---
 title: 'CFA Level 1 - Economics'
-date: ''
+date: '`r Sys.Date()`'
 slug: cfa-level-1-economics
 categories: 
 - Ethics
@@ -125,14 +125,15 @@ Taxing economic rent is efficient.
 * The long-run ATC is a culmination of all possible ATC curve's for varying mixes for factors of production
 
 								
-## Factors that contribute to output (GDP)								
+## Factors that contribute to output (GDP)
+
 * Labor								
 * Capital inputs								
-* Natural resources								
-* Entrepreneurial talent								
+* Natural resources							
+* Entrepreneurial talent						
 * Technology								
 
-												
+										
 ## Perfect Competition												
 1. Many firms and identical products
 2. No barriers to entry

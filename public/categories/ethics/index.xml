@@ -6,6 +6,7 @@
     <description>Recent content in Ethics on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/ethics/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +14,19 @@
     <item>
       <title>CFA Level 1 - Economics</title>
       <link>/post/cfa-level-1-economics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-economics/</guid>
       <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
+    </item>
+    
+    <item>
+      <title>CFA Study Topics</title>
+      <link>/post/cfa-study-topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-study-topics/</guid>
+      <description>CFA Level 1CFA Level 2CFA Level 3Ethicsright-alignedEthicsGIPScenteredPortfolio ManagementEquitiesare neat$1</description>
     </item>
     
   </channel>
