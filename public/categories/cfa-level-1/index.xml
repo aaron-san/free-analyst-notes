@@ -6,18 +6,27 @@
     <description>Recent content in CFA Level 1 on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 14:09:25 +0000</lastBuildDate>
     
 	<atom:link href="/categories/cfa-level-1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFA Level 1 Equities</title>
+      <link>/post/cfa-level-1-equities/</link>
+      <pubDate>Mon, 20 Jul 2020 14:09:25 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-equities/</guid>
+      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceReturn prediction studiesStrong-form EfficiencyMarket Anamolies (public information - tests for Semi-strong EMH)Reasons Why Markets Should be EfficientEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
+    </item>
+    
+    <item>
       <title>CFA Level 1: Alternative Investments</title>
       <link>/post/cfa-level-1-alternative-investments/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 14:06:54 +0000</pubDate>
       
       <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
+      <description>Futures and Forward ContractsForward ContractTerminating a forward contractDeliverySwapsFutures ContractEquity Forward ContractsEurodollar DepositEuribor DepositLIBOREuriborTime DepositForward Rate Agreement (FRA)“NxM” NotationT-Bill Futures ContractEurodollar FuturesCurrency Forward ContractInterest Rate OptionsSwapsSwapsWays to Terminate a SwapCurrency SwapInterest Rate SwapCommodity Futures ReturnsBond Futures and ForwardsFutures and Forward ContractsForward ContractA customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.</description>
     </item>
     
     <item>
@@ -27,15 +36,6 @@
       
       <guid>/post/cfa-level-1-economics/</guid>
       <description>Supply and DemandDeterminants of DemandDeterminants of SupplyPrice ElasticityPrice Elasticity of DemandFactors that influence Elasticity of DemandCross Elasticity of DemandIncome Elasticity of DemandPrice Elasticity of SupplyFactors that influence Elasticity of SupplyMacro EconomyGross Domestic Product (GDP)Causes of inflationTax incidenceOpportunity CostEconomic ProfitImplicit Costs (opportunity costs):Economic EfficiencyShort-Run OutputAverage Total Cost (ATC) is U-shapedLong-Run OutputFactors that contribute to output (GDP)Perfect CompetitionShutdown PriceFirm’s Supply CurveMonopolyLabor UnionsSupply and DemandDeterminants of DemandIncome</description>
-    </item>
-    
-    <item>
-      <title>Cfa Level 1 Equities</title>
-      <link>/post/cfa-level-1-equities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-equities/</guid>
-      <description>EquitiesTypes of OrdersFinancingUnderwritingMarketsShort SellingIndexes/IndicesConstructing an IndexPrice-Weighted IndexMarket-Weighted IndexEfficient Market HypothesisAbnormal rate of returnTests for Market EfficiencyTests for independenceStrong-form EfficiencyEMH ConclusionsRole of Portfolio Managers (in a perfectly efficient market)Exchange Traded Funds (ETFs)Issuing ETFsEquitiesTypes of OrdersMarket Orders - Buy or sell orders that are executed at the current price (guarantees execution, but not price)Limit Orders - Buy or sell orders when the stock price passes a desirable limit (guarantees price or better, but not execution)Limit Buy - purchase a stock if and when it can be bout at-or-below a certain priceLimit Sell - sell a stock if and when it rises above a certain priceNote: A collection of limit orders is called the limit order book.</description>
     </item>
     
   </channel>

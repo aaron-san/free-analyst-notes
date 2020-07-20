@@ -3,43 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/alternative-investments/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/alternative-investments/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/cfa-level-1/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cfa-level-1-alternative-investments/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <loc>/post/cfa-level-1-equities/</loc>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/equities/</loc>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/equities/</loc>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T14:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alternative-investments/</loc>
+    <lastmod>2020-07-20T14:06:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/alternative-investments/</loc>
+    <lastmod>2020-07-20T14:06:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cfa-level-1-alternative-investments/</loc>
+    <lastmod>2020-07-20T14:06:54+00:00</lastmod>
   </url>
   
   <url>
@@ -157,19 +172,7 @@
   </url>
   
   <url>
-    <loc>/post/cfa-level-1-equities/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/economics/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/equities/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/equities/</loc>
   </url>
   
   <url>

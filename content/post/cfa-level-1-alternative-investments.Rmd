@@ -1,6 +1,6 @@
 ---
 title: 'CFA Level 1: Alternative Investments'
-date: "`r Sys.Date()`"
+date: "`r Sys.time()`"
 slug: cfa-level-1-alternative-investments
 categories: 
 - Alternative Investments
@@ -26,27 +26,32 @@ output:
 * **Short forward** position: Seller of underlying
 * No money changes hands at the start.
 											
-## Terminating a forward contract										
+## Terminating a forward contract
+
 * Entering into an offsetting with the original counterparty will eliminate default risk!
 * The original counterparty would be willing to allow termination of the original contract for an immediate payment of that amount
-* Most futures positions are settled by a reverse, or offsetting, trade. Since the other side of your position is held by the clearinghouse, if you make an exact opposite trade (maturity, quantity, and good) to your current position, the clearinghouse will net your positions out, leaving you with a zero balance. Deliveries represent less than one percent of all settlements.											
-											
-## Delivery											
+* Most futures positions are settled by a reverse, or offsetting, trade. Since the other side of your position is held by the clearinghouse, if you make an exact opposite trade (maturity, quantity, and good) to your current position, the clearinghouse will net your positions out, leaving you with a zero balance. Deliveries represent less than one percent of all settlements.					
+									
+## Delivery
+
 * Actual delivery		
 * Cash settlement (NDF - Non-deliverable forwards must be cash settled)
 
 ## Swaps					
-* A series of forward contracts								
+
+* A series of forward contracts
 * Very popular, especially interest rate swaps.			
-											
-## Futures Contract											
+									
+## Futures Contract
+
 * Standardized agreement to exchange some asset at a future date and guaranteed price.
-* The first futures exchange was the Chicago Mercantile Exchange.											
-# Equity Forward Contracts											
+* The first futures exchange was the Chicago Mercantile Exchange.
+
+# Equity Forward Contracts
+
 * If the market price exceeds the contract rate at expiration, the short pays the difference to the long											
 * Dividends are usually not included in equity forward contracts, as the uncertainty about dividend amounts and payment dates is small compared to the uncertainty about future equity prices											
-											
-											
+										
 ## Eurodollar Deposit											
 * Dollar-denominated, short-term, unsecured time deposit held outside the U.S.
 * Eurodollar time deposits are created for banks borrowing and lending dollars
@@ -57,11 +62,13 @@ output:
 * Euro-denominated, short-term, unsecured time deposit held outside the U.S.
 
 ## LIBOR
+
 * London Interbank Offered Rate
 * Lending rate on dollar-denominated loans between London banks
 * Quoted as an annualized rate based on a 360-day year
 
-## Euribor											
+## Euribor
+
 * European Interbank Offered Rate
 * Lending rate on dollar-denomated loans between European banks
 * Quoted as an annualized rate based on a 360-day year
@@ -142,9 +149,9 @@ $\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac
   + The long position experiences positive roll yields when markets are in backwardation; the long investor can buy the the commodity below the current spot price from a hedger.
 * **Price yield** - the return on the spot asset
 											
-***Note:*** Markets in which the predominant traders are commodity producers, hedging against declines in the price of the commodity by selling futures (short hedgers), tend to be in backwardation, with futures prices less than spot prices. Roll yield is positive when a futures market is in backwardation.											
-											
-## Bond Futures and Forwards											
+***Note:*** Markets in which the predominant traders are commodity producers, hedging against declines in the price of the commodity by selling futures (short hedgers), tend to be in backwardation, with futures prices less than spot prices. Roll yield is positive when a futures market is in backwardation.							
+										
+## Bond Futures and Forwards
 * Agreement to buy (long) or sell (short) specified bond at contract price
       
       
