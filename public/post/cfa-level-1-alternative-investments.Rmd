@@ -8,12 +8,13 @@ categories:
 tags:
 - Alternative Investments
 # - regression
-summary: "Alternative investments is a growing field full of potential profit opportunies. Learn about the basics here."
-output:
-      blogdown::html_page:
-            toc: true
+# output:
+#       blogdown::html_page:
+#             toc: true
 ---
 
+Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.
+<!--more-->
 
 # _Futures and Forward Contracts_
 

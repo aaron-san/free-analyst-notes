@@ -22,6 +22,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mathjax = true
   mathjaxPath = "https://cdn.mathjax.org/mathjax/latest/MathJax.js"
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+  # toc = true
   
 [Params.logo]
   image = "" # "img/placeholder.png"
