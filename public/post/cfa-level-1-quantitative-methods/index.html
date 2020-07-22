@@ -81,16 +81,32 @@
 <li><a href="#data-types">Data Types</a></li>
 <li><a href="#descriptive-statistics">Descriptive Statistics</a></li>
 <li><a href="#inferential-statistics">Inferential Statistics</a></li>
+<li><a href="#leptokurtic-distribution">Leptokurtic Distribution</a></li>
+<li><a href="#platykurtic-distribution">Platykurtic Distribution</a></li>
+<li><a href="#returns">Returns</a><ul>
+<li><a href="#arithmetic-mean-vs.-geometric-mean">Arithmetic Mean vs. Geometric Mean</a></li>
+<li><a href="#money-weighted-return">Money-Weighted Return</a></li>
+<li><a href="#time-weighted-return">Time-weighted return</a></li>
+</ul></li>
+<li><a href="#money-market">Money Market</a><ul>
+<li><a href="#bank-discount-yield">Bank-Discount Yield</a></li>
+<li><a href="#holding-period-return">Holding Period Return</a></li>
+</ul></li>
 </ul>
 </div>
 
 <div id="data-types" class="section level2">
 <h2>Data Types</h2>
-<p><em>“NOIR” (French for “black”)</em>
-* Nominal - categorize, but do not rank<br />
-* Ordinal - categorize and rank<br />
-* Interval - difference between scale values equal<br />
-* Ratio - abolute zero</p>
+<ul>
+<li>Nominal - categorize, but do not rank<br />
+</li>
+<li>Ordinal - categorize and rank<br />
+</li>
+<li>Interval - difference between scale values equal<br />
+</li>
+<li>Ratio - abolute zero</li>
+</ul>
+<p><em>“N-O-I-R” (French for “black”)</em></p>
 </div>
 <div id="descriptive-statistics" class="section level2">
 <h2>Descriptive Statistics</h2>
@@ -101,46 +117,84 @@
 <div id="inferential-statistics" class="section level2">
 <h2>Inferential Statistics</h2>
 <ul>
-<li>Involves making inferences about popolations based on samples Statistical Inference (forecasts, estimates.)<br />
-Estimation<br />
-Hypothesis Testing</li>
+<li>Involves making inferences about populations based on samples</li>
+<li>Statistical Inference (forecasts, estimates.) * Estimation</li>
+<li>Hypothesis Testing</li>
 </ul>
-<p>Leptokurtic Distribution More peaked, fatter tails (pinch the normal distribution)<br />
-More peaked than normal distribution (excess Kurtosis &gt; 0)<br />
-Larger tails (fatter tails)</p>
-<p>Platykurtic Distribution Less peaked, compressed tails (press down on normal distribution)<br />
-Less peaked than normal distribution (excess Kurtosis &lt; 0)<br />
-Smaller tails</p>
-<p>Returns</p>
-<p>Arithmetic Mean vs. Geometric Mean<br />
-The arithmetic mean is the best estimate of a single period’s return.<br />
-The geometric mean is the best estimate of future multi-year annual compound returns.</p>
-<p>Money-Weighted Return<br />
-IRR on a series of cash flows</p>
-<p>Time-weighted return<br />
-1. Price the portfolio immediately prior to any significant addition or withdrawal of funds. Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.</p>
-<ol start="2" style="list-style-type: decimal">
-<li>Calculate the holding period return on the portfolio for each subperiod.<br />
+</div>
+<div id="leptokurtic-distribution" class="section level2">
+<h2>Leptokurtic Distribution</h2>
+<ul>
+<li>More peaked, fatter tails (pinch the normal distribution)</li>
+<li>More peaked than normal distribution (excess Kurtosis &gt; 0)</li>
+</ul>
+</div>
+<div id="platykurtic-distribution" class="section level2">
+<h2>Platykurtic Distribution</h2>
+<ul>
+<li>Less peaked, compressed tails (press down on normal distribution)</li>
+<li>Less peaked than normal distribution (excess Kurtosis &lt; 0) * Smaller tails</li>
+</ul>
+</div>
+<div id="returns" class="section level2">
+<h2>Returns</h2>
+<div id="arithmetic-mean-vs.-geometric-mean" class="section level3">
+<h3>Arithmetic Mean vs. Geometric Mean</h3>
+<ul>
+<li>The arithmetic mean is the best estimate of a single period’s return.<br />
 </li>
+<li>The geometric mean is the best estimate of future multi-year annual compound returns.</li>
+</ul>
+</div>
+<div id="money-weighted-return" class="section level3">
+<h3>Money-Weighted Return</h3>
+<ul>
+<li>IRR on a series of cash flows</li>
+</ul>
+</div>
+<div id="time-weighted-return" class="section level3">
+<h3>Time-weighted return</h3>
+<ol style="list-style-type: decimal">
+<li>Price the portfolio immediately prior to any significant addition or withdrawal of funds. Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.<br />
+</li>
+<li>Calculate the holding period return on the portfolio for each subperiod.</li>
 <li>Link or compound holding period returns to obtain an annual rate of return for ht year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.</li>
 </ol>
 <p>Assume dividends are not reinvested!</p>
-<p>Money Market<br />
-The market for short-term debt (t-bills, commercial paper, etc.)</p>
-<p>T-bills are quoted on a bank-discount basis.</p>
-<p>Bank-Discount Yield<br />
-Pure discount securities such as T-bills are quoted differently than government bonds</p>
-<pre><code>        ??? based on face value, not investment price                                           
-        ??? based on 360-day year                                           
-D = discount        ??? assumes simple interest                                         
-F = face value                                                  
-t = days to maturity                                                    
-                                                    </code></pre>
-<p>Holding Period Return ??? based on any length of time<br />
-??? based on one cash payment during life<br />
-??? purchase price and sale price must include Accrued Interest (for bonds)</p>
-<pre><code>            Accrued interest = Annual Coupon/2*time held by seller/total time in payment period                                     </code></pre>
-<p>Effective Annual Yield</p>
+</div>
+</div>
+<div id="money-market" class="section level2">
+<h2>Money Market</h2>
+<ul>
+<li>The market for short-term debt (t-bills, commercial paper, etc.)</li>
+<li>T-bills are quoted on a bank-discount basis.</li>
+</ul>
+<div id="bank-discount-yield" class="section level3">
+<h3>Bank-Discount Yield</h3>
+<ul>
+<li>Pure discount securities such as T-bills are quoted differently than government bonds<br />
+</li>
+<li><span class="math inline">\(\mathrm {\large {R_{BD} = \frac{\text{D}} {\text{F}} \times \frac{360} {t}}}\)</span></li>
+<li>Based on face value, not investment price * Based on 360-day year * Assumes simple interest<br />
+</li>
+<li>Variables:
++ D = discount
++ F = face value
+<ul>
+<li>t = days to maturity</li>
+</ul></li>
+</ul>
+</div>
+<div id="holding-period-return" class="section level3">
+<h3>Holding Period Return</h3>
+<ul>
+<li><span class="math inline">\(\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}\)</span></li>
+<li>Based on any length of time</li>
+<li>Based on one cash payment during life</li>
+<li>Purchase price and sale price must include Accrued Interest (for bonds)</li>
+<li>Accrued interest = Annual Coupon/2*time held by seller/total time in payment period</li>
+</ul>
+<p>###Effective Annual Yield</p>
 <p>Money-Market Yield (CD equivalent yield) Computed on the purchase price, not Face Value</p>
 <p>Bond-Equivalent Yield</p>
 <p>Time-Weighted Rate of Return<br />
@@ -361,6 +415,7 @@ Fundamentalists belive prices adjust quickly.<br />
 EMH advocates believe the price adjustment to new information happens almost instantaneously.<br />
 Fundamentalists, through their research, look for changes in the basis of value, which eventually leads to change in the supply and demand for the stock.<br />
 Technicians look for evidence of changes in supply and demand through market signals and indicators.</p>
+</div>
 </div>
 
 		</div>
