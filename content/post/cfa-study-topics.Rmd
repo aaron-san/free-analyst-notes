@@ -10,8 +10,11 @@ categories:
 - Equities
 - GIPS
 - Economics
+- Statistics
 tags:
-summary: "Our blog's theme started as the theme hugo-tufte but has sense been modified a lot. I've been asked to put it up as a theme for other to use, here it is!"
+- CFA Level 1
+- CFA Level 2
+- CFA Level 3
 output:
       blogdown::html_page
 ---
@@ -19,7 +22,7 @@ output:
 
 | CFA Level 1 | CFA Level 2 | CFA Level 3 |
 |:----------- |:----------- |:----------- |
-| Ethics    | right-aligned | Ethics |
+| [Ethics](/post/cfa-level-1-ethical-and-professional-standards) | | Ethics |
 | GIPS     | centered      | Portfolio Management |
 | [Equities](/post/cfa-level-1-equities) |      |    |
 | [Economics](/post/cfa-level-1-economics) |    |     |

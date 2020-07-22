@@ -7,59 +7,59 @@ categories:
 - CFA Level 1
 tags:
 - Alternative Investments
-# - regression
-# output:
-#       blogdown::html_page:
-#             toc: true
+- regression
+output:
+      blogdown::html_page:
+            toc: true
+summary: "Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here."
 ---
 
-Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.
-<!--more-->
 
-# _Futures and Forward Contracts_
+## _Futures and Forward Contracts_
 
-## Forward Contract											
-* A customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.										
+### Forward Contract											
+* A customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.
 * No clearinghouse or daily settlement (no mark-to-market)
-* Subject to default (but historically safer than futures!)					
+* Subject to default (but historically safer than futures!)	
 * Transactions conducted over the phone, typically.	
 * **Long forward** position: Buyer of underlying
 * **Short forward** position: Seller of underlying
 * No money changes hands at the start.
 											
-## Terminating a forward contract
+### Terminating a forward contract
 
 * Entering into an offsetting with the original counterparty will eliminate default risk!
 * The original counterparty would be willing to allow termination of the original contract for an immediate payment of that amount
-* Most futures positions are settled by a reverse, or offsetting, trade. Since the other side of your position is held by the clearinghouse, if you make an exact opposite trade (maturity, quantity, and good) to your current position, the clearinghouse will net your positions out, leaving you with a zero balance. Deliveries represent less than one percent of all settlements.					
+* Most futures positions are settled by a reverse, or offsetting, trade. Since the other side of your position is held by the clearinghouse, if you make an exact opposite trade (maturity, quantity, and good) to your current position, the clearinghouse will net your positions out, leaving you with a zero balance. Deliveries represent less than one percent of all settlements.	
 									
-## Delivery
+### Delivery
 
 * Actual delivery		
 * Cash settlement (NDF - Non-deliverable forwards must be cash settled)
 
-## Swaps					
+### Swaps					
 
 * A series of forward contracts
 * Very popular, especially interest rate swaps.			
 									
-## Futures Contract
+### Futures Contracts
 
-* Standardized agreement to exchange some asset at a future date and guaranteed price.
+* A standardized agreement to exchange some asset at a future date and guaranteed price.
 * The first futures exchange was the Chicago Mercantile Exchange.
 
-# Equity Forward Contracts
+## Equity Forward Contracts
 
-* If the market price exceeds the contract rate at expiration, the short pays the difference to the long											
-* Dividends are usually not included in equity forward contracts, as the uncertainty about dividend amounts and payment dates is small compared to the uncertainty about future equity prices											
-										
-## Eurodollar Deposit											
-* Dollar-denominated, short-term, unsecured time deposit held outside the U.S.
+* If the market price exceeds the contract rate at expiration, the short pays the difference to the long				
+* Dividends are usually not included in equity forward contracts, as the uncertainty about dividend amounts and payment dates is small compared to the uncertainty about future equity prices
+
+## Eurodollar Deposit								
+* Dollar-denominated, short-term, unsecured time deposit held outside the U.S. (not just Europe!)
 * Eurodollar time deposits are created for banks borrowing and lending dollars
 * Unlike discount securities in the U.S., Euro-market discount security interest is added to the face value to calculate future value
 * Quoted using add-on interest: PV = Principal, $\mathrm {FV = PV(1+i)^{n}}$
 
 ## Euribor Deposit
+
 * Euro-denominated, short-term, unsecured time deposit held outside the U.S.
 
 ## LIBOR
@@ -78,14 +78,16 @@ Alternative investments is a growing field full of potential profit opportunitie
 * A fixed-term account with withdrawal restrictions
 
 ## Forward Rate Agreement (FRA)
+
 * Forward contract to borrow/lend money at a certain rate at some future date
-* Settled in cash at expiration, no actual loans are made!				
+* Settled in cash at expiration, no actual loans are made!
 * Credit risk is not considered, parties use essentially riskless rates, such as LIBOR
 * The long position in an FRA is the party that would borrow the money at the contract rate
-* If the borrowing rate (LIBOR or Euribor) is above the rate specified in the forward agreement, the long position has a right to borrow at a lower rate and will receive a payment											
+* If the borrowing rate (LIBOR or Euribor) is above the rate specified in the forward agreement, the long position has a right to borrow at a lower rate and will receive a payment			
 * Since the interest savings would come at the end of the "loan" period, the cash payment at settlement of the forward is the present value of the interest "savings"
-											
-## "NxM" Notation											
+										
+### "NxM" Notation							
+
 * N = number of days until settlement
 * M =number of days in contract and loan period ("total time")
 $\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac{\left(floating\ -\ forward\right)\left(\frac{days}{360}\right)}{1+\left(floating\right)\left(\frac{days}{360}\right)}}}$      
@@ -94,17 +96,17 @@ $\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac
 
 ## T-Bill Futures Contract							
 * Based on $1,000,000 face value of 90-day T-bill and settle in cash
-* Quoted as (100 - annualized T-bill rate in percent)							
-* Less favorable than Eurodollar futures contracts							
+* Quoted as (100 - annualized T-bill rate in percent)		
+* Less favorable than Eurodollar futures contracts
 * Every change in price of $0.01 in the price of a T-bill futures contract is worth $25							
 							
-## Eurodollar Futures							
-* Add-on yield, rather than a discount yield							
-* Quoted as (100 - annualized LIBOR in percent)							
+## Eurodollar Futures
+
+* Add-on yield, rather than a discount yield			
+* Quoted as (100 - annualized LIBOR in percent)
 * Every change in price of $0.01 in the price of a T-bill futures contract is worth $25							
 							
 ***Note:*** One Tick = 0.01% = 0.0001
-
 
 ## Currency Forward Contract							
 * Two parties exchange cash flows in different currencies
@@ -113,70 +115,50 @@ $\mathrm {\Large {Payment\ =\ \frac{Interest\ Savings\ }{Discount\ Factor}=\frac
 * Changes in exchange rates do not influence payments							
 							
 ## Interest Rate Options							
-* Exercise price is an interest rate							
-* Underlying is based on LIBOR							
+* Exercise price is an interest rate		
+* Underlying is based on LIBOR
 * Notional principal and interest rate differential is used to determine payment		
 * **Payment** is not made at option expiration, but at the **end of the "loan" term**
 * ***Note:*** A long interest rate call combined with a short interest rate put can have the same payoff as a long position in an FRA							
 
 
-# _Swaps_
-
 ## Swaps
+
 * No functioning second market for swaps	
-* Swaps are a zero-sum game											
-* At each settlement date, the two payments are netted so that only one payment is made.											
-											
-## Ways to Terminate a Swap											
-1. Mutual termination											
-2. Offsetting contract											
+* Swaps are a zero-sum game				
+* At each settlement date, the two payments are netted so that only one payment is made.				
+									
+### Ways to Terminate a Swap											
+1. Mutual termination							
+2. Offsetting contract							
 3. Resale - sale to third party (difficult since no functioning secondary market)
-4. Swaption - option to enter a swap										
+4. Swaption - option to enter a swap				
 
-## Currency Swap											
-* Notional amounts in different currencies are swapped at initiation and returned at expiration											
-* Full interest payments are exchanged at each settlement date (not netted) in each currency											
+### Currency Swap	
 
-											
-## Interest Rate Swap		
+* Notional amounts in different currencies are swapped at initiation and returned at expiration		
+* Full interest payments are exchanged at each settlement date (not netted) in each currency						
+						
+### Interest Rate Swap		
+
 * Trading fixed for floating interest rate payments
       + Basis swap (trade one floating rate payment for another)
-* Notional principal is not swapped										
-* Net interest is paid to the party who gains											
-											
-## Commodity Futures Returns											
+* Notional principal is not swapped				
+* Net interest is paid to the party who gains			
+										
+## Commodity Futures Returns					
+
 * **Collateral yield** - the return on cash used as margin to take long derivatives exposure
 * **Roll yield** - the return from rolling forward the maturirity of the derivatives position by closing out current position and entering new contract.
   + The long position experiences positive roll yields when markets are in backwardation; the long investor can buy the the commodity below the current spot price from a hedger.
 * **Price yield** - the return on the spot asset
-											
-***Note:*** Markets in which the predominant traders are commodity producers, hedging against declines in the price of the commodity by selling futures (short hedgers), tend to be in backwardation, with futures prices less than spot prices. Roll yield is positive when a futures market is in backwardation.							
 										
+***Note:*** Markets in which the predominant traders are commodity producers, hedging against declines in the price of the commodity by selling futures (short hedgers), tend to be in backwardation, with futures prices less than spot prices. Roll yield is positive when a futures market is in backwardation.							
 ## Bond Futures and Forwards
+
 * Agreement to buy (long) or sell (short) specified bond at contract price
       
       
-      
-      
-      
-      
-      
-
-| Tables        | Are           | Cool  |
-|:------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-
-
-
-
-[investwithr.com](www.investwithr.com)
-
-
-
 
 
 

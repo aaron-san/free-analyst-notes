@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/alternative-investments/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/alternative-investments/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cfa-level-1/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +33,22 @@
   </url>
   
   <url>
+    <loc>/post/cfa-level-1-ethical-and-professional-standards/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cfa-level-1-quantitative-methods/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/cfa-level-1-equities/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cfa-level-1-alternative-investments/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/categories/ethical-and-professional-standards/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
@@ -48,23 +83,18 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/categories/quantitative-methods/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/alternative-investments/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <loc>/tags/regression/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/alternative-investments/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cfa-level-1-alternative-investments/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -109,11 +139,6 @@
   
   <url>
     <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -178,6 +203,14 @@
   </url>
   
   <url>
+    <loc>/tags/cfa-level-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cfa-level-3/</loc>
+  </url>
+  
+  <url>
     <loc>/post/cfa-study-topics/</loc>
   </url>
   
@@ -191,6 +224,10 @@
   
   <url>
     <loc>/categories/gips/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/statistics/</loc>
   </url>
   
 </urlset>

@@ -21,6 +21,28 @@
     </item>
     
     <item>
+      <title>CFA Level 1 - Ethical and Professional Standards</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards/</guid>
+      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1 - Quantitative Methods</title>
+      <link>/post/cfa-level-1-quantitative-methods/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods/</guid>
+      <description>Data TypesDescriptive StatisticsInferential StatisticsData Types“NOIR” (French for “black”)* Nominal - categorize, but do not rank
+* Ordinal - categorize and rank
+* Interval - difference between scale values equal
+* Ratio - abolute zero
+Descriptive StatisticsInvolves describing data based on particular metricsInferential StatisticsInvolves making inferences about popolations based on samples Statistical Inference (forecasts, estimates.</description>
+    </item>
+    
+    <item>
       <title>CFA Level 1 Equities</title>
       <link>/post/cfa-level-1-equities/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
@@ -32,14 +54,10 @@
     <item>
       <title>CFA Level 1: Alternative Investments</title>
       <link>/post/cfa-level-1-alternative-investments/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>
-
-
-&lt;p&gt;Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.
-</description>
+      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
     </item>
     
     <item>
@@ -132,7 +150,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>Our blog&amp;rsquo;s theme started as the theme hugo-tufte but has sense been modified a lot. I&amp;rsquo;ve been asked to put it up as a theme for other to use, here it is!</description>
+      <description>CFA Level 1CFA Level 2CFA Level 3EthicsEthicsGIPScenteredPortfolio ManagementEquitiesEconomics</description>
     </item>
     
   </channel>
