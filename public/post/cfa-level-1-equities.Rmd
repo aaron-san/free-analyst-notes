@@ -1,9 +1,8 @@
 ---
-title: "CFA Level 1 Equities"
+title: "CFA Level 1: Equities"
 date: '`r Sys.Date()`'
 slug: cfa-level-1-equities
 categories: 
-- Equities
 - CFA Level 1
 tags:
 - Equities

@@ -3,11 +3,9 @@ title: 'CFA Level 1: Alternative Investments'
 date: "`r Sys.Date()`"
 slug: cfa-level-1-alternative-investments
 categories: 
-- Alternative Investments
 - CFA Level 1
 tags:
 - Alternative Investments
-- regression
 output:
       blogdown::html_page:
             toc: true

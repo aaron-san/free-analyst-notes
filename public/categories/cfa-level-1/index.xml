@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>CFA Level 1 - Economics</title>
+      <title>CFA Level 1: Alternative Investments</title>
+      <link>/post/cfa-level-1-alternative-investments/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-alternative-investments/</guid>
+      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Economics</title>
       <link>/post/cfa-level-1-economics/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>CFA Level 1 Equities</title>
+      <title>CFA Level 1: Equities</title>
       <link>/post/cfa-level-1-equities/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -30,12 +39,12 @@
     </item>
     
     <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/post/cfa-level-1-alternative-investments/</link>
+      <title>CFA Level 1: Quantitative Methods</title>
+      <link>/post/cfa-level-1-quantitative-methods/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
+      <guid>/post/cfa-level-1-quantitative-methods/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
   </channel>

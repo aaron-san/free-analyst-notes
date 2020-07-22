@@ -1,6 +1,6 @@
 ---
-title: 'CFA Level 1 - Economics'
-date: '`r Sys.Date()`'
+title: "CFA Level 1: Economics"
+date: "`r Sys.Date()`"
 slug: cfa-level-1-economics
 categories: 
 - CFA Level 1
