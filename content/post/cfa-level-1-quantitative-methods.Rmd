@@ -14,73 +14,79 @@ thumbnail: ""
 ---
 
 
-## Data Types							
+## Data Types 							
 
-_"NOIR" (French for "black")_
 * Nominal - categorize, but do not rank			
 * Ordinal - categorize and rank					
 * Interval - difference between scale values equal	
 * Ratio - abolute zero		
+
+_"N-O-I-R" (French for "black")_
 
 ## Descriptive Statistics							
 * Involves describing data based on particular metrics
 
 ## Inferential Statistics
 
-* Involves making inferences about popolations based on samples												Statistical Inference (forecasts, estimates.)														
-Estimation														
-Hypothesis Testing														
+* Involves making inferences about populations based on samples
+* Statistical Inference (forecasts, estimates.)				* Estimation
+* Hypothesis Testing							
+								
+## Leptokurtic Distribution	
+
+* More peaked, fatter tails (pinch the normal distribution)	
+* More peaked than normal distribution (excess Kurtosis > 0)
+
+## Platykurtic Distribution
+
+* Less peaked, compressed tails (press down on normal distribution)
+* Less peaked than normal distribution (excess Kurtosis < 0)	* Smaller tails														
 														
-Leptokurtic Distribution					More peaked, fatter tails (pinch the normal distribution)									
-More peaked than normal distribution (excess Kurtosis > 0)														
-Larger tails (fatter tails)														
+## Returns				
+										
+### Arithmetic Mean vs. Geometric Mean			
+
+* The arithmetic mean is the best estimate of a single period's return.				
+* The geometric mean is the best estimate of future multi-year annual compound returns.														
 														
-Platykurtic Distribution					Less peaked, compressed tails (press down on normal distribution)									
-Less peaked than normal distribution (excess Kurtosis < 0)														
-Smaller tails														
+### Money-Weighted Return						
+
+* IRR on a series of cash flows			
+
+### Time-weighted return			
+
+1. Price the portfolio immediately prior to any significant addition or withdrawal of funds.  Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.									
+2. Calculate the holding period return on the portfolio for each subperiod.
+3. Link or compound holding period returns to obtain an annual rate of return for ht year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.
+										
+Assume dividends are not reinvested!				
+
+## Money Market		
+
+* The market for short-term debt (t-bills, commercial paper, etc.)
+* T-bills are quoted on a bank-discount basis.			
+
+### Bank-Discount Yield	
+
+* Pure discount securities such as T-bills are quoted differently than government bonds														
+* $\mathrm {\large {R_{BD} = \frac{\text{D}} {\text{F}} \times \frac{360} {t}}}$
+* Based on face value, not investment price				* Based on 360-day year								* Assumes simple interest			
+* Variables:
+      + D = discount
+      + F = face value
+	+ t = days to maturity													
 														
-Returns														
+### Holding Period Return
+
+* $\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}$
+* Based on any length of time
+* Based on one cash payment during life
+* Purchase price and sale price must include Accrued Interest (for bonds)
+* Accrued interest = Annual Coupon/2*time held by seller/total time in payment period								
+
+###Effective Annual Yield		
 														
-Arithmetic Mean vs. Geometric Mean														
-The arithmetic mean is the best estimate of a single period's return.														
-The geometric mean is the best estimate of future multi-year annual compound returns.														
-														
-Money-Weighted Return														
-IRR on a series of cash flows														
-														
-Time-weighted return														
-1. Price the portfolio immediately prior to any significant addition or withdrawal of funds.  Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.														
-														
-2. Calculate the holding period return on the portfolio for each subperiod.														
-3. Link or compound holding period returns to obtain an annual rate of return for ht year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.														
-														
-														
-														
-Assume dividends are not reinvested!														
-														
-Money Market														
-The market for short-term debt (t-bills, commercial paper, etc.)														
-														
-T-bills are quoted on a bank-discount basis.														
-														
-Bank-Discount Yield														
-Pure discount securities such as T-bills are quoted differently than government bonds														
-														
-			??? based on face value, not investment price											
-			??? based on 360-day year											
-	D = discount		??? assumes simple interest											
-	F = face value													
-	t = days to maturity													
-														
-Holding Period Return				??? based on any length of time										
-				??? based on one cash payment during life										
-				??? purchase price and sale price must include Accrued Interest (for bonds)										
-														
-				Accrued interest = Annual Coupon/2*time held by seller/total time in payment period										
-Effective Annual Yield														
-														
-														
-														
+									
 Money-Market Yield (CD equivalent yield)				Computed on the purchase price, not Face Value										
 														
 														
