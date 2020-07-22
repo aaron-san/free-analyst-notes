@@ -15,14 +15,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   description = "Study for the CFA exams with our free notes" # Description of your site
   opengraph = true
   twitter_cards = false
-  readmore = true # Show "Read more" button in list if true
+  readmore = false # Show "Read more" button in list if true
   authorbox = false
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mathjax = true
   mathjaxPath = "https://cdn.mathjax.org/mathjax/latest/MathJax.js"
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
-  # toc = true
+  #toc = true
+  summary = true
   
 [Params.logo]
   image = "" # "img/placeholder.png"

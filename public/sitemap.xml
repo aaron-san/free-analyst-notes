@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/cfa-level-1/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cfa-level-1-equities/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/equities/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/equities/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/alternative-investments/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
@@ -13,22 +53,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/cfa-level-1/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/cfa-level-1-economics/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cfa-level-1-equities/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,31 +64,6 @@
   
   <url>
     <loc>/tags/economics/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/equities/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/equities/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   

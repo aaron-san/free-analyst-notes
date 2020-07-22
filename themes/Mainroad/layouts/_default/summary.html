@@ -21,7 +21,14 @@
 	</header>
       <!--  Summary  -->
 	<div class="content list__excerpt post__content clearfix">
-		{{ .Summary }}
+		<!-- {{ .Summary }} --> <!-- original -->
+		
+		{{ if .Params.summary }}
+		      {{ .Params.summary | markdownify }}
+	      {{ else }}
+		      {{ .Summary }}
+		{{ end }}
+		
 	</div>
 
 	{{- if .Site.Params.readmore }}
