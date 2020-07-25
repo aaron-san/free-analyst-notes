@@ -22,19 +22,5 @@ Headings Let&amp;rsquo;s start with all possible headings. The HTML &amp;lt;h1&a
 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph According to the HTML5 specification by W3C, HTML documents consist of a tree of elements and text.</description>
     </item>
     
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
   </channel>
 </rss>
