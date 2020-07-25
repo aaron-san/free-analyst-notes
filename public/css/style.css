@@ -67,7 +67,7 @@ body {
 
 .wrapper {
 	padding: 25px;
-	background-image: radial-gradient(white, lightgrey);
+	background-image: radial-gradient(white, #D0D3D4);
 }
 
 .flex {
@@ -621,7 +621,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .meta__icon {
 	margin-right: 5px;
 	vertical-align: middle;
-	fill: #c4c4c4;
+	fill: #ABB2B9;
 }
 
 .meta__text {
