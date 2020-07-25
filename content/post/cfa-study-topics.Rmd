@@ -17,10 +17,10 @@ output:
 
 | CFA Level 1 | CFA Level 2 | CFA Level 3 |
 |:----------- |:----------- |:----------- |
-| [Ethics](/post/cfa-level-1-ethical-and-professional-standards) | | Ethics |
-| GIPS     | centered      | Portfolio Management |
-| [Equities](/post/cfa-level-1-equities) |      |    |
-| [Economics](/post/cfa-level-1-economics) |    |     |
+| [Ethics](/post/cfa-level-1-ethical-and-professional-standards) | Ethics | Ethics |
+| GIPS | GIPS | GIPS  | 
+| [Equities](/post/cfa-level-1-equities) |  | Portfolio Management |
+| [Economics](/post/cfa-level-1-economics) |  |  |
 
 
 
