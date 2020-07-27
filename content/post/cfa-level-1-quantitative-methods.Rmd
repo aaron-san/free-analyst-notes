@@ -29,19 +29,23 @@ _"N-O-I-R" (French for "black")_
 ## Inferential Statistics
 
 * Involves making inferences about populations based on samples
-* Statistical Inference (forecasts, estimates.)				* Estimation
+* Statistical Inference (forecasts, estimates.)
+* Estimation
 * Hypothesis Testing							
-								
+					
+<p>![Normal curve with excess kurtosis](/post/cfa-level-1-quantitative-methods_files/normal-platy-lepto.png){width="350" style="margin: 0 3px 3px 0; border-radius: 1%; box-shadow: 0 3px 6px 0 grey, 0 4px 16px 0 grey;"}</p>
+
 ## Leptokurtic Distribution	
 
 * More peaked, fatter tails (pinch the normal distribution)	
 * More peaked than normal distribution (excess Kurtosis > 0)
 
-## Platykurtic Distribution
+## Platykurtic Distribution 
 
 * Less peaked, compressed tails (press down on normal distribution)
-* Less peaked than normal distribution (excess Kurtosis < 0)	* Smaller tails														
-														
+* Less peaked than normal distribution (excess Kurtosis < 0)	* Smaller tails
+
+
 ## Returns				
 										
 ### Arithmetic Mean vs. Geometric Mean			
@@ -74,8 +78,8 @@ Assume dividends are not reinvested!
 * Variables:
       + D = discount
       + F = face value
-	+ t = days to maturity													
-														
+	+ t = days to maturity						
+										
 ### Holding Period Return
 
 * $\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}$
@@ -83,26 +87,26 @@ Assume dividends are not reinvested!
 * Based on one cash payment during life
 * Purchase price and sale price must include Accrued Interest (for bonds)
 * Accrued interest = Annual Coupon/2*time held by seller/total time in payment period								
-
 ### Effective Annual Yield		
-														
+										
+* $\mathrm {\large {EAY = (1 + HPY)^{365 / t} - 1}}$
 									
-Money-Market Yield (CD equivalent yield)				Computed on the purchase price, not Face Value										
-														
-														
+### Money-Market Yield (CD equivalent yield)	
+
+* $\mathrm {\large {r_{mm} = \frac{360 \ (r_{BD})} {360 - (r_{BD})t} = r_{BD} \frac{F} {P_0}} = HPY \frac{360} {t}}$
+* Computed on the purchase price, not Face Value		
 				
 ### Bond-Equivalent Yield	
-														
-														
-														
+										
+* $\mathrm {\large {BEY = \text{semiannual IRR} \cdot 2}} $
+										
 ### Time-Weighted Rate of Return	
-
 
 * Note: Dividends are assumed to be contributed by fund manager
 * Note: Dividends are assumed to be held by investor (not reinvested)														
 														
 Position of a Percentile														
-Ly = (n+1)(y/100)														
+$\mathrm {\large {L_y =  \frac{(n+1) \cdot y} {100}}}$							
 														
 ## Probability          
 

@@ -11,8 +11,8 @@
 <meta property="og:description" content="Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/post/cfa-level-1-quantitative-methods/" />
-<meta property="article:published_time" content="2020-07-25T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-07-25T00:00:00+00:00" />
+<meta property="article:published_time" content="2020-07-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-07-27T00:00:00+00:00" />
 
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -70,7 +70,7 @@
 			<h1 class="post__title">CFA Level 1: Quantitative Methods</h1>
 			<div class="post__meta meta">
 <div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-07-25T00:00:00Z">July 25, 2020</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/cfa-level-1/" rel="category">CFA Level 1</a>
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-07-27T00:00:00Z">July 27, 2020</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/cfa-level-1/" rel="category">CFA Level 1</a>
 	</span>
 </div></div>
 		</header><div class="content post__content clearfix">
@@ -91,7 +91,7 @@
 <li><a href="#money-market">Money Market</a><ul>
 <li><a href="#bank-discount-yield">Bank-Discount Yield</a></li>
 <li><a href="#holding-period-return">Holding Period Return</a></li>
-<li><a href="#effective-annual-yield">Effective Annual Yield</a></li>
+<li><a href="#money-market-yield-cd-equivalent-yield">Money-Market Yield (CD equivalent yield)</a></li>
 <li><a href="#bond-equivalent-yield">Bond-Equivalent Yield</a></li>
 <li><a href="#time-weighted-rate-of-return">Time-Weighted Rate of Return</a></li>
 </ul></li>
@@ -128,9 +128,13 @@
 <h2>Inferential Statistics</h2>
 <ul>
 <li>Involves making inferences about populations based on samples</li>
-<li>Statistical Inference (forecasts, estimates.) * Estimation</li>
+<li>Statistical Inference (forecasts, estimates.)</li>
+<li>Estimation</li>
 <li>Hypothesis Testing</li>
 </ul>
+<p>
+<img src="/post/cfa-level-1-quantitative-methods_files/normal-platy-lepto.png" title="fig:" style="margin: 0 3px 3px 0; border-radius: 1%; box-shadow: 0 3px 6px 0 grey, 0 4px 16px 0 grey;" width="350" alt="Normal curve with excess kurtosis" />
+</p>
 </div>
 <div id="leptokurtic-distribution" class="section level2">
 <h2>Leptokurtic Distribution</h2>
@@ -198,19 +202,27 @@
 <div id="holding-period-return" class="section level3">
 <h3>Holding Period Return</h3>
 <ul>
-<li><span class="math inline">\(\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}\)</span></li>
-<li>Based on any length of time</li>
-<li>Based on one cash payment during life</li>
-<li>Purchase price and sale price must include Accrued Interest (for bonds)</li>
-<li>Accrued interest = Annual Coupon/2*time held by seller/total time in payment period</li>
+<li><p><span class="math inline">\(\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}\)</span></p></li>
+<li><p>Based on any length of time</p></li>
+<li><p>Based on one cash payment during life</p></li>
+<li><p>Purchase price and sale price must include Accrued Interest (for bonds)</p></li>
+<li><p>Accrued interest = Annual Coupon/2*time held by seller/total time in payment period<br />
+### Effective Annual Yield</p></li>
+<li><p><span class="math inline">\(\mathrm {\large {EAY = (1 + HPY)^{365 / t} - 1}}\)</span></p></li>
 </ul>
 </div>
-<div id="effective-annual-yield" class="section level3">
-<h3>Effective Annual Yield</h3>
-<p>Money-Market Yield (CD equivalent yield) Computed on the purchase price, not Face Value</p>
+<div id="money-market-yield-cd-equivalent-yield" class="section level3">
+<h3>Money-Market Yield (CD equivalent yield)</h3>
+<ul>
+<li><span class="math inline">\(\mathrm {\large {r_{mm} = \frac{360 \ (r_{BD})} {360 - (r_{BD})t} = r_{BD} \frac{F} {P_0}} = HPY \frac{360} {t}}\)</span></li>
+<li>Computed on the purchase price, not Face Value</li>
+</ul>
 </div>
 <div id="bond-equivalent-yield" class="section level3">
 <h3>Bond-Equivalent Yield</h3>
+<ul>
+<li>$ $</li>
+</ul>
 </div>
 <div id="time-weighted-rate-of-return" class="section level3">
 <h3>Time-Weighted Rate of Return</h3>
@@ -219,7 +231,7 @@
 <li>Note: Dividends are assumed to be held by investor (not reinvested)</li>
 </ul>
 <p>Position of a Percentile<br />
-Ly = (n+1)(y/100)</p>
+<span class="math inline">\(\mathrm {\large {L_y = \frac{(n+1) \cdot y} {100}}}\)</span></p>
 </div>
 </div>
 <div id="probability" class="section level2">
