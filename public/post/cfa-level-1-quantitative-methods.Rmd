@@ -45,14 +45,13 @@ _"N-O-I-R" (French for "black")_
 * Less peaked, compressed tails (press down on normal distribution)
 * Less peaked than normal distribution (excess Kurtosis < 0)	* Smaller tails
 
-
 ## Returns				
 										
 ### Arithmetic Mean vs. Geometric Mean			
 
 * The arithmetic mean is the best estimate of a single period's return.				
-* The geometric mean is the best estimate of future multi-year annual compound returns.														
-														
+* The geometric mean is the best estimate of future multi-year annual compound returns.
+
 ### Money-Weighted Return						
 
 * IRR on a series of cash flows			
@@ -61,9 +60,9 @@ _"N-O-I-R" (French for "black")_
 
 1. Price the portfolio immediately prior to any significant addition or withdrawal of funds.  Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.									
 2. Calculate the holding period return on the portfolio for each subperiod.
-3. Link or compound holding period returns to obtain an annual rate of return for ht year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.
+3. Link or compound holding period returns to obtain an annual rate of return for the year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.
 										
-Assume dividends are not reinvested!				
+<font style="color: red; font-weight: bold; font: italic; margin-left: 26px;"> Note: </font> Assume dividends are _not_ reinvested!
 
 ## Money Market		
 
@@ -72,7 +71,7 @@ Assume dividends are not reinvested!
 
 ### Bank-Discount Yield	
 
-* Pure discount securities such as T-bills are quoted differently than government bonds														
+* Pure discount securities such as T-bills are quoted differently than government bonds						
 * $\mathrm {\large {R_{BD} = \frac{\text{D}} {\text{F}} \times \frac{360} {t}}}$
 * Based on face value, not investment price				* Based on 360-day year								* Assumes simple interest			
 * Variables:
@@ -86,8 +85,9 @@ Assume dividends are not reinvested!
 * Based on any length of time
 * Based on one cash payment during life
 * Purchase price and sale price must include Accrued Interest (for bonds)
-* Accrued interest = Annual Coupon/2*time held by seller/total time in payment period								
-### Effective Annual Yield		
+* Accrued interest = Annual Coupon/2*time held by seller/total time in payment period							
+
+### Effective Annual Yield
 										
 * $\mathrm {\large {EAY = (1 + HPY)^{365 / t} - 1}}$
 									
@@ -97,43 +97,47 @@ Assume dividends are not reinvested!
 * Computed on the purchase price, not Face Value		
 				
 ### Bond-Equivalent Yield	
-										
-* $\mathrm {\large {BEY = \text{semiannual IRR} \cdot 2}} $
+									
+* $\mathrm {\large {BEY = \text{semiannual IRR} \times 2}} $
 										
 ### Time-Weighted Rate of Return	
 
 * Note: Dividends are assumed to be contributed by fund manager
-* Note: Dividends are assumed to be held by investor (not reinvested)														
-														
-Position of a Percentile														
-$\mathrm {\large {L_y =  \frac{(n+1) \cdot y} {100}}}$							
-														
+* Note: Dividends are assumed to be held by investor (not reinvested)			
+								
+## Position of a Percentile	
+
+* $\mathrm {\large {L_y =  \frac{(n+1) \cdot y} {100}}}$	
+
 ## Probability          
 
 ### Empirical Probability	
+
 * Based on historical outcomes					
 * For accuracy, relationships must be stable through time
 
 ### Subjective Probability		
-* Based on personal judgment														
-														
+
+* Based on personal judgment			
+						
 ### A Priori Probability            
+
 * Based on logical analysis, reasoning
 * Based on counting methods and equally-likely potential outcomes
 
 ### Time-Series - across time		
+
 ### Cross-Sectional - among units at a given point in time	
 								
-Expected Operating Costs: Operating Costs (Y-hat) = fixed costs (y-intercept)+variable costs/unit(slope)*Number of units produced
+Expected Operating Costs: Operating Costs (Y-hat) = fixed costs (y-intercept) + variable costs/unit(slope)*Number of units produced
 
-Basis Point: 100 basis point = 1%
+## Basis Point 
+
+* 100 basis points = 1%
 
 **Divide by "n-1" for samples						
 						
 Variance of Portfolio														
-														
-										
-														
 Correlation Coefficient														
 * A measure of "linear" comovement					
 * A standardized measure of covariance				
@@ -143,17 +147,17 @@ Labeling
 Multinomial Formula														
 Number of ways to label k items out of n items with n1 of the first type, n2 of the second type, etc.														
 														
-Combination														
-A special type of the multinomial with 2 labels (binomial model)														
-														
-Shortfall Risk														
-Risk that a return will fall below a specifided target level														
-														
-Safety-First Rule														
+## Combination		
+
+* A special type of the multinomial with 2 labels (binomial model)							
+
+## Shortfall Risk		
+
+* Risk that a return will fall below a specifided target level
+
+## Safety-First Rule          
+
 SFRatio														
-														
-														
-														
 	If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio).													
 	The farther from the limiting return, the greater the spread between E(RP) and RL.													
 														

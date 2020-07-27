@@ -91,10 +91,12 @@
 <li><a href="#money-market">Money Market</a><ul>
 <li><a href="#bank-discount-yield">Bank-Discount Yield</a></li>
 <li><a href="#holding-period-return">Holding Period Return</a></li>
+<li><a href="#effective-annual-yield">Effective Annual Yield</a></li>
 <li><a href="#money-market-yield-cd-equivalent-yield">Money-Market Yield (CD equivalent yield)</a></li>
 <li><a href="#bond-equivalent-yield">Bond-Equivalent Yield</a></li>
 <li><a href="#time-weighted-rate-of-return">Time-Weighted Rate of Return</a></li>
 </ul></li>
+<li><a href="#position-of-a-percentile">Position of a Percentile</a></li>
 <li><a href="#probability">Probability</a><ul>
 <li><a href="#empirical-probability">Empirical Probability</a></li>
 <li><a href="#subjective-probability">Subjective Probability</a></li>
@@ -102,6 +104,10 @@
 <li><a href="#time-series---across-time">Time-Series - across time</a></li>
 <li><a href="#cross-sectional---among-units-at-a-given-point-in-time">Cross-Sectional - among units at a given point in time</a></li>
 </ul></li>
+<li><a href="#basis-point">Basis Point</a></li>
+<li><a href="#combination">Combination</a></li>
+<li><a href="#shortfall-risk">Shortfall Risk</a></li>
+<li><a href="#safety-first-rule">Safety-First Rule</a></li>
 </ul>
 </div>
 
@@ -172,9 +178,9 @@
 <li>Price the portfolio immediately prior to any significant addition or withdrawal of funds. Break the overall evaluation period into subperiods based on the dates of cash inflows and outflows.<br />
 </li>
 <li>Calculate the holding period return on the portfolio for each subperiod.</li>
-<li>Link or compound holding period returns to obtain an annual rate of return for ht year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.</li>
+<li>Link or compound holding period returns to obtain an annual rate of return for the year (the time-weighted rate of return for the year). If the investment is for more thant one year, take the geometric mean of the annual returns to obtain the time-weighted rate of return over that measurement period.</li>
 </ol>
-<p>Assume dividends are not reinvested!</p>
+<p><font style="color: red; font-weight: bold; font: italic; margin-left: 26px;"> Note: </font> Assume dividends are <em>not</em> reinvested!</p>
 </div>
 </div>
 <div id="money-market" class="section level2">
@@ -202,13 +208,17 @@
 <div id="holding-period-return" class="section level3">
 <h3>Holding Period Return</h3>
 <ul>
-<li><p><span class="math inline">\(\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}\)</span></p></li>
-<li><p>Based on any length of time</p></li>
-<li><p>Based on one cash payment during life</p></li>
-<li><p>Purchase price and sale price must include Accrued Interest (for bonds)</p></li>
-<li><p>Accrued interest = Annual Coupon/2*time held by seller/total time in payment period<br />
-### Effective Annual Yield</p></li>
-<li><p><span class="math inline">\(\mathrm {\large {EAY = (1 + HPY)^{365 / t} - 1}}\)</span></p></li>
+<li><span class="math inline">\(\mathrm {\large {HPY = \frac{P_{1} - P_{0} + D_{1}} {P_{0}}}}\)</span></li>
+<li>Based on any length of time</li>
+<li>Based on one cash payment during life</li>
+<li>Purchase price and sale price must include Accrued Interest (for bonds)</li>
+<li>Accrued interest = Annual Coupon/2*time held by seller/total time in payment period</li>
+</ul>
+</div>
+<div id="effective-annual-yield" class="section level3">
+<h3>Effective Annual Yield</h3>
+<ul>
+<li><span class="math inline">\(\mathrm {\large {EAY = (1 + HPY)^{365 / t} - 1}}\)</span></li>
 </ul>
 </div>
 <div id="money-market-yield-cd-equivalent-yield" class="section level3">
@@ -230,9 +240,13 @@
 <li>Note: Dividends are assumed to be contributed by fund manager</li>
 <li>Note: Dividends are assumed to be held by investor (not reinvested)</li>
 </ul>
-<p>Position of a Percentile<br />
-<span class="math inline">\(\mathrm {\large {L_y = \frac{(n+1) \cdot y} {100}}}\)</span></p>
 </div>
+</div>
+<div id="position-of-a-percentile" class="section level2">
+<h2>Position of a Percentile</h2>
+<ul>
+<li><span class="math inline">\(\mathrm {\large {L_y = \frac{(n+1) \cdot y} {100}}}\)</span></li>
+</ul>
 </div>
 <div id="probability" class="section level2">
 <h2>Probability</h2>
@@ -262,26 +276,41 @@
 </div>
 <div id="cross-sectional---among-units-at-a-given-point-in-time" class="section level3">
 <h3>Cross-Sectional - among units at a given point in time</h3>
-<p>Expected Operating Costs: Operating Costs (Y-hat) = fixed costs (y-intercept)+variable costs/unit(slope)*Number of units produced</p>
-<p>Basis Point: 100 basis point = 1%</p>
+<p>Expected Operating Costs: Operating Costs (Y-hat) = fixed costs (y-intercept) + variable costs/unit(slope)*Number of units produced</p>
+</div>
+</div>
+<div id="basis-point" class="section level2">
+<h2>Basis Point</h2>
+<ul>
+<li>100 basis points = 1%</li>
+</ul>
 <p>**Divide by “n-1” for samples</p>
-<p>Variance of Portfolio</p>
-<p>Correlation Coefficient<br />
+<p>Variance of Portfolio<br />
+Correlation Coefficient<br />
 * A measure of “linear” comovement<br />
 * A standardized measure of covariance<br />
 * Correlation ranges between -1 and +1</p>
 <p>Labeling<br />
 Multinomial Formula<br />
 Number of ways to label k items out of n items with n1 of the first type, n2 of the second type, etc.</p>
-<p>Combination<br />
-A special type of the multinomial with 2 labels (binomial model)</p>
-<p>Shortfall Risk<br />
-Risk that a return will fall below a specifided target level</p>
-<p>Safety-First Rule<br />
-SFRatio</p>
-<pre><code>If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio).                                                 
-The farther from the limiting return, the greater the spread between E(RP) and RL.                                                  
-                                                    </code></pre>
+</div>
+<div id="combination" class="section level2">
+<h2>Combination</h2>
+<ul>
+<li>A special type of the multinomial with 2 labels (binomial model)</li>
+</ul>
+</div>
+<div id="shortfall-risk" class="section level2">
+<h2>Shortfall Risk</h2>
+<ul>
+<li>Risk that a return will fall below a specifided target level</li>
+</ul>
+</div>
+<div id="safety-first-rule" class="section level2">
+<h2>Safety-First Rule</h2>
+<p>SFRatio<br />
+If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio).<br />
+The farther from the limiting return, the greater the spread between E(RP) and RL.</p>
 <p>Price Relative</p>
 <p>Continuously Compounded Return</p>
 <p>Independent and Identically Distributed (IID)<br />
@@ -463,7 +492,6 @@ Fundamentalists belive prices adjust quickly.<br />
 EMH advocates believe the price adjustment to new information happens almost instantaneously.<br />
 Fundamentalists, through their research, look for changes in the basis of value, which eventually leads to change in the supply and demand for the stock.<br />
 Technicians look for evidence of changes in supply and demand through market signals and indicators.</p>
-</div>
 </div>
 
 		</div>
