@@ -21,6 +21,7 @@ output:
 | GIPS | GIPS | GIPS  | 
 | [Equities](/post/cfa-level-1-equities) |  | Portfolio Management |
 | [Economics](/post/cfa-level-1-economics) |  |  |
+| [Quantitative Methods](/post/cfa-level-1-quantitative-methods-part-1) | 
 
 
 

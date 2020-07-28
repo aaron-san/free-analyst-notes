@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>CFA Level 1: Quantitative Methods (part 3) - Free Analyst Notes</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="CFA Level 1: Quantitative Methods (part 3)" />
+<meta property="og:description" content="Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/cfa-level-1-quantitative-methods-part-3/" />
+<meta property="article:published_time" content="2020-07-28T08:56:23+00:00" />
+<meta property="article:modified_time" content="2020-07-28T08:56:23+00:00" />
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="Free Analyst Notes" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">Free Analyst Notes</div>
+					<div class="logo__tagline">CFA Study Notes</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/post/cfa-study-topics/">
+				
+				<span class="menu__text">CFA Study Topics</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				
+				<span class="menu__text">About Hugo</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+	
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">CFA Level 1: Quantitative Methods (part 3)</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-07-28T08:56:23Z">July 28, 2020</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/cfa-level-1/" rel="category">CFA Level 1</a>
+	</span>
+</div></div>
+		</header><div class="content post__content clearfix">
+			
+
+<div id="TOC">
+<ul>
+<li><a href="#statistical-inference">Statistical Inference</a></li>
+<li><a href="#estimators">Estimators</a></li>
+<li><a href="#skewed-distribution">Skewed Distribution</a></li>
+<li><a href="#power-of-a-test">Power of a Test</a></li>
+<li><a href="#technical-analysis">Technical Analysis</a></li>
+<li><a href="#contrarian-rules">Contrarian Rules</a></li>
+</ul>
+</div>
+
+<div id="statistical-inference" class="section level2">
+<h2>Statistical Inference</h2>
+<ul>
+<li>Hypothesis Testing (testing validity of parameters)<br />
+Estimation (estimation of parameters)</li>
+</ul>
+<p>Sampling Bias<br />
+Data Mining<br />
+??? Out-of-Sample Test: using a sample that does not overlap the time period of the variable under consideration<br />
+??? Intergenerational Data Mining: repeatedly using data produced by prior researchers until a pattern is discovered<br />
+??? A data-mining bias occurs when variables are added to an analysis without any predictive merit (i.e., there is no causal relationship for adding the variables). The variables are not added to enhance prediction, but to thwart the predictive relationship between other variables.</p>
+<p>Sample Selection Bias<br />
+Using data availability as a criteria for sampling</p>
+<p>Survivorship Bias<br />
+Excluding data that is discontinued (defaulted firms)</p>
+<p>Look-ahead Bias<br />
+Using data that is not currently available to every market participant</p>
+<p>Time-period Bias<br />
+Using data that is inherently influenced by a specific time-period that skews the results</p>
+</div>
+<div id="estimators" class="section level2">
+<h2>Estimators</h2>
+<p>“UEC”<br />
+* Unbiased<br />
+* The expected value of the estimator equals the value of the parameter<br />
+* Efficient<br />
+* The variance of the estimator is the least of all other estimators of the parameter<br />
+* Consistent<br />
+* The probability that the estimator equals the paramater increases with increasing sample size</p>
+</div>
+<div id="skewed-distribution" class="section level2">
+<h2>Skewed Distribution</h2>
+<p>No Skew: Mode = Median = Mean<br />
+Left Skew: Mode &gt; Median &gt; Mean<br />
+Right Skew: Mode &lt; Median &lt; Mean</p>
+<pre><code>Z   Confidence  Z   Confidence                                      
+1.65    90% 1   68%                                     
+1.96    95% 2   95%                                     
+2.58    99% 3   99%                                     
+                                                    </code></pre>
+<p>Confidence Interval<br />
+Probabilistic interpretation: <strong>% of the resulting confidence intervals will, in the long run, contain the population parameter<br />
+Practical interpretation: We are </strong>% confident the given confidence interval contains the population parameter</p>
+<p>Total Probability Rule<br />
+Pr(A) = Pr(A|B)Pr(B) + Pr(A|C)Pr(C)</p>
+<p>Addtion Rule of Probability<br />
+Pr(A or B) = Pr(A) + Pr(B) - Pr(A and B)</p>
+<p>Multiplication Rule of Probability<br />
+Pr(A and B) = Pr(A)Pr(B)</p>
+<p>Steps in Hypothesis Testing<br />
+1. State hypothesis<br />
+2. Decide on test statistics and probability distribution<br />
+3. Decide on significance level<br />
+4. Decide on decision rule<br />
+5. Collect data and calculate test statistic<br />
+6. Make statistical decision<br />
+7. Make economic decision</p>
+<p>Power of a Test<br />
+The probability of rejecting a false null hypothesis<br />
+Power = 1-<span class="math inline">\(\beta\)</span> = 1-Pr(Type II error)</p>
+<p>Labeling<br />
+How many ways can k labels can be assigned to n items<br />
+The number of items that receive label 1 is n1, where n1+n2+n3+.+nk = n</p>
+<p>Test for Population Mean (Z-stat)<br />
+Assumptions:<br />
+Known variance (or unknown if n&gt;30)<br />
+Normal distribution (or nonnormal if n&gt;30)</p>
+<p>Test for Population Mean (T-Stat)<br />
+Assumptions:<br />
+Unknown variance and…<br />
+Either<br />
+1. sample is large (n&gt;30) or…<br />
+2. sample is small, but the population is at least approximately normally distributed</p>
+<p>Test of Mean Differences (T Statistic)<br />
+Assumptions:<br />
+Normally distributed populations<br />
+Unknown population variances<br />
+Test for Difference Between Means (t-stat)<br />
+Assumptions:<br />
+Normally distributed populations,<br />
+Independent populations<br />
+Population variances unknown, but assumed equal</p>
+<p>df = n1+n2-2</p>
+<p>Assumptions:<br />
+Normally distributed populations<br />
+Independent populations<br />
+Unequal and unknown populatino variances</p>
+<p>In majority of cases, the T-test is used!</p>
+<p>Assumptions:<br />
+Normally distributed populations<br />
+Dependent populations</p>
+<p>Stocks are generally considered to be dependent (both rely on market returns)</p>
+<pre><code>    Test Statistic                                              </code></pre>
+<p>When sampling from a: Small Sample Large Sample<br />
+n&lt;30 n&gt;30<br />
+Normal distribution, known variance z z</p>
+<p>Normal distribution, unknown variance t t or z</p>
+<p>Nonnormal distribution, known variance not available z Central Limit Theorem</p>
+<p>Nonnormal distribution, unknown variance not available t or z Central Limit Theorem</p>
+<p>Types of Risk<br />
+Default risk - risk that a security will lose value due to a firm’s default<br />
+Liquidity risk - risk of receiving less than the fair value for an asset if it must be sold quickly<br />
+Maturity risk - risk of higher volatility of longer maturity instruments (particularly with bonds)</p>
+<p>RRORbond = real risk-free rate + inflation premium + default risk premium + liquidity premium + maturity premium</p>
+<p>Test for Variance (1 population - <span class="math inline">\(??^2\)</span>)<br />
+Assumptions:<br />
+Normally distributed population<br />
+<span class="math inline">\(??^2\)</span> distribution approaches the normal distribution as the sample size increases<br />
+## Test for Equality of Variances (2 populations - F-dist)<br />
+* Assumptions:<br />
+Normally distributed populations<br />
+Independent distributions<br />
+Rejection region is in the right tail of the F-distribution (if s21 is the greater sample variance)</p>
+</div>
+<div id="power-of-a-test" class="section level2">
+<h2>Power of a Test</h2>
+<ul>
+<li>1-P(Type II Error)</li>
+</ul>
+</div>
+<div id="technical-analysis" class="section level2">
+<h2>Technical Analysis</h2>
+<ul>
+<li>Assumptions:
+* Value is determined by supply and demand
+* Supply and demand is driven by both rational and irrational behavior<br />
+* Prices move in trends that persist for long periods</li>
+</ul>
+<p>Causes of changes in supply and demand are difficult to determine<br />
+## Main challenge to technical analysis is the EMH</p>
+<ul>
+<li>Fundamentalists look for reasons why prices should change and realize the change when they find a reason for it to change<br />
+EMH theory contends that prices adjust quickly to new information<br />
+Technical analysts contend that prices adjust slowly to new information</li>
+</ul>
+<p>Almost without exception, EMH studies using autocorrelation and runs tests have found no evidence that prices move in trends.</p>
+<p>Strategies<br />
+Contrarian - most investors are wrong, so do the opposite<br />
+Follow the smart money - “jumping on the bandwagon”</p>
+<p>Indictors<br />
+Momentum indicators - focus on direction of market<br />
+Price- and volume-based indicators - focus on market data</p>
+</div>
+<div id="contrarian-rules" class="section level2">
+<h2>Contrarian Rules</h2>
+<ol style="list-style-type: decimal">
+<li>Cash position of mutual funds - need for liquidity (mutual fund ratio = mutual fund cash / total fund assets; a ratio &gt; 11% suggests MF managers are bearish; a ratio &lt; 4% suggests MF managers are bullish)<br />
+</li>
+<li>Investor credit balances in brokerage accounts - need for liquidity (credit balances are uninvested cash)<br />
+</li>
+<li>Opinions of investment advisory services - relative view of analysts<br />
+</li>
+<li>Over-the-counter vs. NYSE volume - Over-the-counter trading is more speculative<br />
+</li>
+<li>CBOE put/call ratio - puts outstanding/calls outstanding<br />
+5.) Stock index futures - observe expected price growth</li>
+</ol>
+<p>Smart Money Rules<br />
+Confidence index = quality bond yields/average bond yields</p>
+<p>In periods of confidence, investors sell high-quality bonds (increasing their yields) and buy lower-quality bonds (decreasing their yields), decreasing the yield spread</p>
+<p>In periods of pessimism, investors buy high-quality bonds (decreasing their yields) and sell lower-quality bonds (increasing their yields), increasing the yield spread</p>
+<p>T-bill-Eurodollar yield spread - measures international crises and use of U.S. safe havens<br />
+Debit balances in brokerage accounts (margin debt)</p>
+<p>Momentum Indicators<br />
+Breadth of market<br />
+Stocks above their 200-day moving average</p>
+<p>Stock Price and Volume Techniques<br />
+Dow Theory - stock prices move in trends<br />
+Importance of volume - Price changes on low volume tell us little. Price changes on high volume tell us whether suppliers or demanders are driving the change.</p>
+<p>Support and resistance levels<br />
+Price Channels</p>
+<p>Relative Strength (RS) - RS = stock price / market index value</p>
+<p>Underlying technical analysis are the following assumptions:<br />
+1) Values, and thus prices, are determined by supply and demand.<br />
+2) Supply and demand are driven by both rational and irrational behavior.<br />
+3) Security prices move in trends that persist over long periods.<br />
+4) While the causes of changes in supply and demand are difficult to determine, the actual shifts in supply and demand can be observed in market price behavior.</p>
+<p>The major challenge to technical analysis is the efficient market hypothesis (EMH).</p>
+<p>Fundemantalists believe they can forecast value changes by analyzing earnings and other publicly available data.<br />
+Fundamentalists belive prices adjust quickly.<br />
+EMH advocates believe the price adjustment to new information happens almost instantaneously.<br />
+Fundamentalists, through their research, look for changes in the basis of value, which eventually leads to change in the supply and demand for the stock.<br />
+Technicians look for evidence of changes in supply and demand through market signals and indicators.</p>
+</div>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/quantitative-methods/" rel="tag">Quantitative Methods</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="" />
+	</form>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/cfa-level-1/">CFA Level 1</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/development/">Development</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/ethical-and-professional-standards/">Ethical and Professional Standards</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/r/">R</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/alternative-investments/" title="Alternative Investments">Alternative Investments</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/basic-elements/" title="Basic Elements">Basic Elements</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cfa-level-1/" title="CFA Level 1">CFA Level 1</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cfa-level-2/" title="CFA Level 2">CFA Level 2</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cfa-level-3/" title="CFA Level 3">CFA Level 3</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="CSS">CSS</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/economics/" title="Economics">Economics</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/equities/" title="Equities">Equities</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/html/" title="HTML">HTML</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/plot/" title="plot">plot</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/quantitative-methods/" title="Quantitative Methods">Quantitative Methods</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/r-markdown/" title="R Markdown">R Markdown</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/regression/" title="regression">regression</a>
+	</div>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/cfa-level-1-quantitative-methods-part-2/">CFA Level 1: Quantitative Methods (part 2)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/cfa-level-1-quantitative-methods-part-1/">CFA Level 1: Quantitative Methods (part 1)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/cfa-level-1-quantitative-methods-part-3/">CFA Level 1: Quantitative Methods (part 3)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/cfa-level-1-alternative-investments/">CFA Level 1: Alternative Investments</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/cfa-level-1-economics/">CFA Level 1: Economics</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2020 Free Analyst Notes.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+
+
+
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+
+</body>
+</html>

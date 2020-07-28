@@ -1,0 +1,213 @@
+---
+title: "CFA Level 1: Quantitative Methods (part 3)"
+slug: cfa-level-1-quantitative-methods-part-3
+description: ""
+date: "2020-07-28 08:56:23"
+categories:
+- CFA Level 1
+tags:
+- Quantitative Methods
+tags_weight: 3
+output:
+      blogdown::html_page:
+            toc: true
+summary: "Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more."
+thumbnail: ""
+---
+
+
+<div id="TOC">
+<ul>
+<li><a href="#statistical-inference">Statistical Inference</a></li>
+<li><a href="#estimators">Estimators</a></li>
+<li><a href="#skewed-distribution">Skewed Distribution</a></li>
+<li><a href="#power-of-a-test">Power of a Test</a></li>
+<li><a href="#technical-analysis">Technical Analysis</a></li>
+<li><a href="#contrarian-rules">Contrarian Rules</a></li>
+</ul>
+</div>
+
+<div id="statistical-inference" class="section level2">
+<h2>Statistical Inference</h2>
+<ul>
+<li>Hypothesis Testing (testing validity of parameters)<br />
+Estimation (estimation of parameters)</li>
+</ul>
+<p>Sampling Bias<br />
+Data Mining<br />
+??? Out-of-Sample Test: using a sample that does not overlap the time period of the variable under consideration<br />
+??? Intergenerational Data Mining: repeatedly using data produced by prior researchers until a pattern is discovered<br />
+??? A data-mining bias occurs when variables are added to an analysis without any predictive merit (i.e., there is no causal relationship for adding the variables). The variables are not added to enhance prediction, but to thwart the predictive relationship between other variables.</p>
+<p>Sample Selection Bias<br />
+Using data availability as a criteria for sampling</p>
+<p>Survivorship Bias<br />
+Excluding data that is discontinued (defaulted firms)</p>
+<p>Look-ahead Bias<br />
+Using data that is not currently available to every market participant</p>
+<p>Time-period Bias<br />
+Using data that is inherently influenced by a specific time-period that skews the results</p>
+</div>
+<div id="estimators" class="section level2">
+<h2>Estimators</h2>
+<p>“UEC”<br />
+* Unbiased<br />
+* The expected value of the estimator equals the value of the parameter<br />
+* Efficient<br />
+* The variance of the estimator is the least of all other estimators of the parameter<br />
+* Consistent<br />
+* The probability that the estimator equals the paramater increases with increasing sample size</p>
+</div>
+<div id="skewed-distribution" class="section level2">
+<h2>Skewed Distribution</h2>
+<p>No Skew: Mode = Median = Mean<br />
+Left Skew: Mode &gt; Median &gt; Mean<br />
+Right Skew: Mode &lt; Median &lt; Mean</p>
+<pre><code>Z   Confidence  Z   Confidence                                      
+1.65    90% 1   68%                                     
+1.96    95% 2   95%                                     
+2.58    99% 3   99%                                     
+                                                    </code></pre>
+<p>Confidence Interval<br />
+Probabilistic interpretation: <strong>% of the resulting confidence intervals will, in the long run, contain the population parameter<br />
+Practical interpretation: We are </strong>% confident the given confidence interval contains the population parameter</p>
+<p>Total Probability Rule<br />
+Pr(A) = Pr(A|B)Pr(B) + Pr(A|C)Pr(C)</p>
+<p>Addtion Rule of Probability<br />
+Pr(A or B) = Pr(A) + Pr(B) - Pr(A and B)</p>
+<p>Multiplication Rule of Probability<br />
+Pr(A and B) = Pr(A)Pr(B)</p>
+<p>Steps in Hypothesis Testing<br />
+1. State hypothesis<br />
+2. Decide on test statistics and probability distribution<br />
+3. Decide on significance level<br />
+4. Decide on decision rule<br />
+5. Collect data and calculate test statistic<br />
+6. Make statistical decision<br />
+7. Make economic decision</p>
+<p>Power of a Test<br />
+The probability of rejecting a false null hypothesis<br />
+Power = 1-<span class="math inline">\(\beta\)</span> = 1-Pr(Type II error)</p>
+<p>Labeling<br />
+How many ways can k labels can be assigned to n items<br />
+The number of items that receive label 1 is n1, where n1+n2+n3+.+nk = n</p>
+<p>Test for Population Mean (Z-stat)<br />
+Assumptions:<br />
+Known variance (or unknown if n&gt;30)<br />
+Normal distribution (or nonnormal if n&gt;30)</p>
+<p>Test for Population Mean (T-Stat)<br />
+Assumptions:<br />
+Unknown variance and…<br />
+Either<br />
+1. sample is large (n&gt;30) or…<br />
+2. sample is small, but the population is at least approximately normally distributed</p>
+<p>Test of Mean Differences (T Statistic)<br />
+Assumptions:<br />
+Normally distributed populations<br />
+Unknown population variances<br />
+Test for Difference Between Means (t-stat)<br />
+Assumptions:<br />
+Normally distributed populations,<br />
+Independent populations<br />
+Population variances unknown, but assumed equal</p>
+<p>df = n1+n2-2</p>
+<p>Assumptions:<br />
+Normally distributed populations<br />
+Independent populations<br />
+Unequal and unknown populatino variances</p>
+<p>In majority of cases, the T-test is used!</p>
+<p>Assumptions:<br />
+Normally distributed populations<br />
+Dependent populations</p>
+<p>Stocks are generally considered to be dependent (both rely on market returns)</p>
+<pre><code>    Test Statistic                                              </code></pre>
+<p>When sampling from a: Small Sample Large Sample<br />
+n&lt;30 n&gt;30<br />
+Normal distribution, known variance z z</p>
+<p>Normal distribution, unknown variance t t or z</p>
+<p>Nonnormal distribution, known variance not available z Central Limit Theorem</p>
+<p>Nonnormal distribution, unknown variance not available t or z Central Limit Theorem</p>
+<p>Types of Risk<br />
+Default risk - risk that a security will lose value due to a firm’s default<br />
+Liquidity risk - risk of receiving less than the fair value for an asset if it must be sold quickly<br />
+Maturity risk - risk of higher volatility of longer maturity instruments (particularly with bonds)</p>
+<p>RRORbond = real risk-free rate + inflation premium + default risk premium + liquidity premium + maturity premium</p>
+<p>Test for Variance (1 population - <span class="math inline">\(??^2\)</span>)<br />
+Assumptions:<br />
+Normally distributed population<br />
+<span class="math inline">\(??^2\)</span> distribution approaches the normal distribution as the sample size increases<br />
+## Test for Equality of Variances (2 populations - F-dist)<br />
+* Assumptions:<br />
+Normally distributed populations<br />
+Independent distributions<br />
+Rejection region is in the right tail of the F-distribution (if s21 is the greater sample variance)</p>
+</div>
+<div id="power-of-a-test" class="section level2">
+<h2>Power of a Test</h2>
+<ul>
+<li>1-P(Type II Error)</li>
+</ul>
+</div>
+<div id="technical-analysis" class="section level2">
+<h2>Technical Analysis</h2>
+<ul>
+<li>Assumptions:
+* Value is determined by supply and demand
+* Supply and demand is driven by both rational and irrational behavior<br />
+* Prices move in trends that persist for long periods</li>
+</ul>
+<p>Causes of changes in supply and demand are difficult to determine<br />
+## Main challenge to technical analysis is the EMH</p>
+<ul>
+<li>Fundamentalists look for reasons why prices should change and realize the change when they find a reason for it to change<br />
+EMH theory contends that prices adjust quickly to new information<br />
+Technical analysts contend that prices adjust slowly to new information</li>
+</ul>
+<p>Almost without exception, EMH studies using autocorrelation and runs tests have found no evidence that prices move in trends.</p>
+<p>Strategies<br />
+Contrarian - most investors are wrong, so do the opposite<br />
+Follow the smart money - “jumping on the bandwagon”</p>
+<p>Indictors<br />
+Momentum indicators - focus on direction of market<br />
+Price- and volume-based indicators - focus on market data</p>
+</div>
+<div id="contrarian-rules" class="section level2">
+<h2>Contrarian Rules</h2>
+<ol style="list-style-type: decimal">
+<li>Cash position of mutual funds - need for liquidity (mutual fund ratio = mutual fund cash / total fund assets; a ratio &gt; 11% suggests MF managers are bearish; a ratio &lt; 4% suggests MF managers are bullish)<br />
+</li>
+<li>Investor credit balances in brokerage accounts - need for liquidity (credit balances are uninvested cash)<br />
+</li>
+<li>Opinions of investment advisory services - relative view of analysts<br />
+</li>
+<li>Over-the-counter vs. NYSE volume - Over-the-counter trading is more speculative<br />
+</li>
+<li>CBOE put/call ratio - puts outstanding/calls outstanding<br />
+5.) Stock index futures - observe expected price growth</li>
+</ol>
+<p>Smart Money Rules<br />
+Confidence index = quality bond yields/average bond yields</p>
+<p>In periods of confidence, investors sell high-quality bonds (increasing their yields) and buy lower-quality bonds (decreasing their yields), decreasing the yield spread</p>
+<p>In periods of pessimism, investors buy high-quality bonds (decreasing their yields) and sell lower-quality bonds (increasing their yields), increasing the yield spread</p>
+<p>T-bill-Eurodollar yield spread - measures international crises and use of U.S. safe havens<br />
+Debit balances in brokerage accounts (margin debt)</p>
+<p>Momentum Indicators<br />
+Breadth of market<br />
+Stocks above their 200-day moving average</p>
+<p>Stock Price and Volume Techniques<br />
+Dow Theory - stock prices move in trends<br />
+Importance of volume - Price changes on low volume tell us little. Price changes on high volume tell us whether suppliers or demanders are driving the change.</p>
+<p>Support and resistance levels<br />
+Price Channels</p>
+<p>Relative Strength (RS) - RS = stock price / market index value</p>
+<p>Underlying technical analysis are the following assumptions:<br />
+1) Values, and thus prices, are determined by supply and demand.<br />
+2) Supply and demand are driven by both rational and irrational behavior.<br />
+3) Security prices move in trends that persist over long periods.<br />
+4) While the causes of changes in supply and demand are difficult to determine, the actual shifts in supply and demand can be observed in market price behavior.</p>
+<p>The major challenge to technical analysis is the efficient market hypothesis (EMH).</p>
+<p>Fundemantalists believe they can forecast value changes by analyzing earnings and other publicly available data.<br />
+Fundamentalists belive prices adjust quickly.<br />
+EMH advocates believe the price adjustment to new information happens almost instantaneously.<br />
+Fundamentalists, through their research, look for changes in the basis of value, which eventually leads to change in the supply and demand for the stock.<br />
+Technicians look for evidence of changes in supply and demand through market signals and indicators.</p>
+</div>

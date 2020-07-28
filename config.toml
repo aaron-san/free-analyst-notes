@@ -17,13 +17,17 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = false
-  pager = true
+  pager = false
   post_meta = ["date", "categories"] # Order of post meta information
   mathjax = true
   mathjaxPath = "https://cdn.mathjax.org/mathjax/latest/MathJax.js"
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
   #toc = true
   summary = true
+  post_navigation = true
+  postSections = ["blog"]
+#[Permalinks]
+ # post = "/post/:slug/"
   
 [Params.logo]
   image = "" # "img/placeholder.png"
