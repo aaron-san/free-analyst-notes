@@ -6,7 +6,7 @@
     <description>Recent content on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 15:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 16:07:49 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,23 +14,32 @@
     <item>
       <title>CFA Level 1: Quantitative Methods (part 2)</title>
       <link>/post/cfa-level-1-quantitative-methods-part-2/</link>
-      <pubDate>Tue, 28 Jul 2020 15:34:29 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2020 16:07:49 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-2/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
     <item>
+      <title>Cfa-Level-1-Quantitative-Methods-Part-4</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-4/</link>
+      <pubDate>Tue, 28 Jul 2020 15:50:41 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-4/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
+    
+    <item>
       <title>CFA Level 1: Quantitative Methods (part 3)</title>
       <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
-      <pubDate>Tue, 28 Jul 2020 15:34:14 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2020 15:48:25 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
     <item>
-      <title>CFA Level 1: Economics</title>
+      <title>CFA Level 1: Economics (part 1)</title>
       <link>/post/cfa-level-1-economics/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -164,7 +173,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>CFA Level 1CFA Level 2CFA Level 3EthicsEthicsEthicsGIPSGIPSGIPSEquitiesPortfolio ManagementEconomicsQuantitative Methods</description>
+      <description>CFA Level 1CFA Level 2CFA Level 3EthicsEthicsEthicsGIPSGIPSGIPSEquitiesPortfolio ManagementEconomicsQuantitative MethodsDerivativesCorporate FinancePortfolio Management</description>
     </item>
     
   </channel>

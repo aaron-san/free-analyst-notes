@@ -1,5 +1,5 @@
 ---
-title: "CFA Level 1: Economics"
+title: "CFA Level 1: Economics (part 1)"
 lastmod: "`r Sys.Date()`"
 slug: cfa-level-1-economics
 categories: 
@@ -82,6 +82,7 @@ summary: "The CFA level 1 exam covers economics in great detail, specifically, m
 ## Macro Economy
 
 ### Gross Domestic Product (GDP)	
+
 * GDP = C + I + G + EX							
 * GDP equals the value of the total goods and services produced within a country over a given period of time			
 * GDP can be measured in current or inflation-adjusted (constant) prices (real GDP)
@@ -120,7 +121,8 @@ Taxing economic rent is efficient.
 * Normal profit - what owner could have earned in next highest paying activity
       + e.g. foregone wages, foregone interest, economic depreciation, normal profit		
 								
-### Economic Efficiency								
+### Economic Efficiency		
+
 * Output relative to input cost		
 * The cost curves are determined by a firm's technology	
 
@@ -144,9 +146,9 @@ Taxing economic rent is efficient.
 * Natural resources							
 * Entrepreneurial talent						
 * Technology								
-
 										
-### Perfect Competition												
+### Perfect Competition		
+
 1. Many firms and identical products
 2. No barriers to entry
 3. Established firms have no advantage over new firms
@@ -155,9 +157,10 @@ Taxing economic rent is efficient.
 * ***Price Taker:***
   + Marginal Revenue (MR) = Price (Marginal Revenue curve = Demand curve)			
 * A firm's goal is to maximize economic profit.  Economic Profit = Total Revenue - Total Cost (includes opportunity cost of production, including normal profit of entrepreneur)
-* In the short run, a firm cannot avoid incurring its fixed cost (sunk cost), but the firm can avoid variable costs by temporarily laying off its workers and shutting down.						
+* In the short run, a firm cannot avoid incurring its fixed cost (sunk cost), but the firm can avoid variable costs by temporarily laying off its workers and shutting down.
 
-### Shutdown Price 												
+### Shutdown Price 	
+
 * Price that just covers a firm's total variable cost.
 
 ### Firm's Supply Curve

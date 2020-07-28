@@ -115,7 +115,7 @@ European-style option with value at maturity equal to difference between the sto
 
 <a id="nav__prev" href="../cfa-level-1-quantitative-methods-part-1">Previous</a>
 
-<a id="nav__next" href="../cfa-level-1-quantitative-methods-part-3">Next</a>
+<a id="btn_green" href="../cfa-level-1-quantitative-methods-part-3">Next</a>
 
 <br>
 	

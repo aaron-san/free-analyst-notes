@@ -1313,7 +1313,8 @@ textarea {
 
 
 /* Navigation Buttons (by Aaron) */
-#nav__next {;
+#nav__next,
+#btn__green {;
       text-decoration: none;
       border: transparent;
       border-radius: 5px;
@@ -1337,18 +1338,20 @@ textarea {
             transition-delay: 0s;
 }
 
-#nav__next:hover {
+#nav__next,
+#btn__green:hover {
       color: white;
 	background: #239B56;
 }
 
-#nav__next,
-#nav__next:hover {
+#nav__next, 
+#btn__green:hover {
 	display: block;
 	padding: 10px 15px;
 }
 
-#nav__prev {;
+#nav__prev, 
+#btn__red {;
       text-decoration: none;
       display: block;
       float: left;
@@ -1372,13 +1375,232 @@ textarea {
             transition-delay: 0s;
 }
 
-#nav__prev:hover {
+#nav__prev,
+#btn__red:hover {
       color: white;
 	background: {{ $highlightColor }};
 }
 
 #nav__prev,
-#nav__prev:hover {
+#btn__red:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+
+
+/* Unique button styles */
+
+#btn__blue {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #3399ff; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__blue:hover {
+      color: white;
+	background: #0033cc;
+}
+
+#btn__blue,
+#btn__blue:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+#btn__purple {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #993399; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__purple:hover {
+      color: white;
+	background: #862d86;
+}
+
+#btn__purple,
+#btn__purple:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+#btn__orange {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #ff9933; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__orange:hover {
+      color: white;
+	background: #ff8c1a;
+}
+
+#btn__orange,
+#btn__orange:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+
+#btn__brown {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #ac7339; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__brown:hover {
+      color: white;
+	background: #996633;
+}
+
+#btn__brown,
+#btn__brown:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+
+#btn__yellow {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #b3b300; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__yellow:hover {
+      color: white;
+	background: #999900;
+}
+
+#btn__yellow,
+#btn__yellow:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+
+
+#btn__pink {;
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #cc0099; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__pink:hover {
+      color: white;
+	background: #b30086;
+}
+
+#btn__pink,
+#btn__pink:hover {
 	display: block;
 	padding: 10px 15px;
 }
