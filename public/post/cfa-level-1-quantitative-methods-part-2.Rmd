@@ -2,7 +2,7 @@
 title: "CFA Level 1: Quantitative Methods (part 2)"
 slug: cfa-level-1-quantitative-methods-part-2
 description: ""
-date: "`r Sys.time()`"
+lastmod: "`r Sys.time()`"
 categories:
 - CFA Level 1
 tags:
