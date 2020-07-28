@@ -34,15 +34,17 @@ _"N-O-I-R" (French for "black")_
 * Statistical Inference (forecasts, estimates.)
 * Estimation
 * Hypothesis Testing							
-					
-<p>![Normal curve with excess kurtosis](/post/cfa-level-1-quantitative-methods_files/normal-platy-lepto.png){width="350" style="margin: 0 3px 3px 0; border-radius: 1%; box-shadow: 0 3px 6px 0 grey, 0 4px 16px 0 grey;"}</p>
+	
+## Distributions				
 
-## Leptokurtic Distribution	
+<p>![Normal curve with excess kurtosis](/post/cfa-level-1-quantitative-methods_files/normal-platy-lepto.png){width="350" style="margin: 5px 5px 5px 5px; border-radius: 1%; box-shadow: 0 3px 6px 0 grey, 0 4px 16px 0 grey; float: right;"}</p>
+
+### Leptokurtic Distribution	
 
 * More peaked, fatter tails (pinch the normal distribution)	
 * More peaked than normal distribution (excess Kurtosis > 0)
 
-## Platykurtic Distribution 
+### Platykurtic Distribution 
 
 * Less peaked, compressed tails (press down on normal distribution)
 * Less peaked than normal distribution (excess Kurtosis < 0)	* Smaller tails
@@ -99,9 +101,9 @@ _"N-O-I-R" (French for "black")_
 * Computed on the purchase price, not Face Value		
 				
 ### Bond-Equivalent Yield	
-									
-* $\mathrm {\large {BEY = \text{semiannual IRR} \times 2}} $
-										
+
+* $\mathrm {\large {BEY = \text{semiannual IRR} \times 2}}$
+
 ### Time-Weighted Rate of Return	
 
 * Note: Dividends are assumed to be contributed by fund manager

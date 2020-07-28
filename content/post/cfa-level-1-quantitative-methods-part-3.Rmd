@@ -253,11 +253,16 @@ Underlying technical analysis are the following assumptions:
 2) Supply and demand are driven by both rational and irrational behavior.														
 3) Security prices move in trends that persist over long periods.														
 4) While the causes of changes in supply and demand are difficult to determine, the actual shifts in supply and demand can be observed in market price behavior.														
-														
-The major challenge to technical analysis is the efficient market hypothesis (EMH).														
-														
-Fundemantalists believe they  can forecast value changes by analyzing earnings and other publicly available data. 														
-Fundamentalists belive prices adjust quickly.														
+The major challenge to technical analysis is the efficient market hypothesis (EMH).					
+
+Fundemantalists believe they can forecast value changes by analyzing earnings and other publicly available data. 												
+Fundamentalists believe prices adjust quickly.														
 EMH advocates believe the price adjustment to new information happens almost instantaneously.														
 Fundamentalists, through their research, look for changes in the basis of value, which eventually leads to change in the supply and demand for the stock.														
-Technicians look for evidence of changes in supply and demand through market signals and indicators.														
+Technicians look for evidence of changes in supply and demand through market signals and indicators.
+
+<hr>
+
+<a id="nav__prev" href="../cfa-level-1-quantitative-methods-part-2">Previous</a>
+
+<br>
