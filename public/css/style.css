@@ -395,11 +395,12 @@ select {
 
 .logo__link {
 	display: inline-block;
+	text-align: center;
 }
 
 .logo__item {
 	display: inline-block;
-	vertical-align: middle;
+	text-align: center;
 }
 
 .logo__img {
@@ -408,6 +409,7 @@ select {
 
 .logo__text {
 	text-transform: uppercase;
+	text-align: center;
 }
 
 .logo--mixed .logo__item {
@@ -425,6 +427,7 @@ select {
 
 .logo__title {
 	font-family: "Times New Roman", Times, serif;
+	text-align: center;
 	font-size: 32px;
 	font-size: 1.5rem;
 	font-weight: 500;
@@ -445,7 +448,6 @@ select {
 	line-height: 1;
 	color: #ffddcc;
 	/* border-top: 1px solid #ebebeb; */
-	text-align: center;
 }
 
 .divider {
