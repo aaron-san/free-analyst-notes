@@ -445,6 +445,7 @@ select {
 	line-height: 1;
 	color: #ffddcc;
 	/* border-top: 1px solid #ebebeb; */
+	text-align: center;
 }
 
 .divider {
@@ -1256,6 +1257,7 @@ textarea {
 	.logo__title {
 		font-size: 24px;
 		font-size: 1.5rem;
+		text-align: center;
 	}
 
 	.sidebar {
