@@ -469,8 +469,8 @@ select {
 	font: inherit;
 	color: #ffddcc; /* font color */
 	background-image: radial-gradient(#333333, #686868);
-	border: 0;	
-	outline: 0;
+	border: 1px radial-gradient(#686868, #333333);	/* menu button border */
+	/* outline: 0; */
 }
 
 .menu__btn-title {
