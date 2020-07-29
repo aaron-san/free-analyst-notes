@@ -31,7 +31,6 @@ output:
 
 <a id="btn__red" href="../cfa-level-2-alternative-investments-part-1">Alternative Investments</a> 
 
-
 <br>
 <br>
 <br>
@@ -43,7 +42,11 @@ output:
 
 <a id="btn__blue" href="../cfa-level-3-alternative-investments-part-1">Alternative Investments</a> 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
 
 
