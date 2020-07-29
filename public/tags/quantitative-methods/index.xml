@@ -6,7 +6,7 @@
     <description>Recent content in Quantitative Methods on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 16:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 11:23:08 +0000</lastBuildDate>
     
 	<atom:link href="/tags/quantitative-methods/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>CFA Level 1: Quantitative Methods (part 2)</title>
       <link>/post/cfa-level-1-quantitative-methods-part-2/</link>
-      <pubDate>Tue, 28 Jul 2020 16:07:49 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:23:08 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-2/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Quantitative Methods (part 3)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
+      <pubDate>Wed, 29 Jul 2020 11:05:57 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Tue, 28 Jul 2020 15:50:41 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-4/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Quantitative Methods (part 3)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
-      <pubDate>Tue, 28 Jul 2020 15:48:25 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     

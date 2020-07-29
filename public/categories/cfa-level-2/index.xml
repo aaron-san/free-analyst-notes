@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alternative Investments on Free Analyst Notes</title>
-    <link>/tags/alternative-investments/</link>
-    <description>Recent content in Alternative Investments on Free Analyst Notes</description>
+    <title>CFA Level 2 on Free Analyst Notes</title>
+    <link>/categories/cfa-level-2/</link>
+    <description>Recent content in CFA Level 2 on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jul 2020 12:14:36 +0000</lastBuildDate>
     
-	<atom:link href="/tags/alternative-investments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/cfa-level-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
       <description>Income Property Analysis and AppraisalCapitalization RateMeasuring the Cap RateRecaptured DepreciationPrivate Equity ValuationUnique Sources of Value for Private Equity InvestmentsAdjustments for Probability of FailureThe Basic Venture Capital MethodInvesting in CommoditiesCommodity Futures ReturnsCommodity prices decline for the following reasons (shifts in demand/supply):Supply and DemandPerformance of Hedge FundsMaximum DrawdownMeasures left-tail riskOther Risk MeasuresHedge Fund RisksMaximum DrawdownValue At RiskIncome Property Analysis and AppraisalCapitalization RateCap rate = rNOI - gNOIMeasuring the Cap RateMarket Extraction Method (ME)</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/post/cfa-level-1-alternative-investments/</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
     </item>
     
   </channel>

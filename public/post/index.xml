@@ -6,17 +6,35 @@
     <description>Recent content in Posts on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 16:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 12:14:36 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFA Level 2: Alternative Investments (part 1)</title>
+      <link>/post/cfa-level-2-alternative-investments-part-1/</link>
+      <pubDate>Wed, 29 Jul 2020 12:14:36 +0000</pubDate>
+      
+      <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
+      <description>Income Property Analysis and AppraisalCapitalization RateMeasuring the Cap RateRecaptured DepreciationPrivate Equity ValuationUnique Sources of Value for Private Equity InvestmentsAdjustments for Probability of FailureThe Basic Venture Capital MethodInvesting in CommoditiesCommodity Futures ReturnsCommodity prices decline for the following reasons (shifts in demand/supply):Supply and DemandPerformance of Hedge FundsMaximum DrawdownMeasures left-tail riskOther Risk MeasuresHedge Fund RisksMaximum DrawdownValue At RiskIncome Property Analysis and AppraisalCapitalization RateCap rate = rNOI - gNOIMeasuring the Cap RateMarket Extraction Method (ME)</description>
+    </item>
+    
+    <item>
       <title>CFA Level 1: Quantitative Methods (part 2)</title>
       <link>/post/cfa-level-1-quantitative-methods-part-2/</link>
-      <pubDate>Tue, 28 Jul 2020 16:07:49 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:23:08 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-2/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Quantitative Methods (part 3)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
+      <pubDate>Wed, 29 Jul 2020 11:05:57 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Tue, 28 Jul 2020 15:50:41 +0000</pubDate>
       
       <guid>/post/cfa-level-1-quantitative-methods-part-4/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Quantitative Methods (part 3)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
-      <pubDate>Tue, 28 Jul 2020 15:48:25 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
@@ -160,7 +169,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>CFA Level 1CFA Level 2CFA Level 3EthicsEthicsEthicsGIPSGIPSGIPSEquitiesPortfolio ManagementEconomicsQuantitative MethodsDerivativesCorporate FinancePortfolio Management</description>
+      <description>CFA Level 1CFA Level 2CFA Level 3Ethical and Professional StandardsEthical and Professional StandardsEthical and Professional StandardsGIPSGIPSGIPSEquitiesPortfolio ManagementEconomicsQuantitative MethodsDerivativesCorporate FinancePortfolio ManagementAlternative InvestmentsAlternative Investments</description>
     </item>
     
   </channel>

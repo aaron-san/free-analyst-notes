@@ -164,9 +164,9 @@ Types of Risk
 Default risk - risk that a security will lose value due to a firm's default														
 Liquidity risk - risk of receiving less than the fair value for an asset if it must be sold quickly														
 Maturity risk - risk of higher volatility of longer maturity instruments (particularly with bonds)														
-														
-RRORbond = real risk-free rate + inflation premium + default risk premium + liquidity premium + maturity premium														
-														
+										
+RRORbond = real risk-free rate + inflation premium + default risk premium + liquidity premium + maturity premium
+
 ## Test for Variance (1 population - $??^2$)	
 
 * Assumptions:	
@@ -178,13 +178,13 @@ $??^2$ distribution approaches the normal distribution as the sample size increa
 * Assumptions:					
       * Normally distributed populations
       * Independent distributions														
-Rejection region is in the right tail of the F-distribution (if s21 is the greater sample variance)														
-														
-													
+Rejection region is in the right tail of the F-distribution (if s21 is the greater sample variance)
+
 ## Power of a Test			
 
-* 1-P(Type II Error)														
-  										
+* 1-P(Type II Error)							
+
+
 <hr>
 
 <a id="nav__prev" href="../cfa-level-1-quantitative-methods-part-2">Previous</a>

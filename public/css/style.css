@@ -1311,8 +1311,7 @@ textarea {
 
 
 /* Navigation Buttons (by Aaron) */
-#nav__next,
-#btn__green {;
+#nav__next {
       text-decoration: none;
       border: transparent;
       border-radius: 5px;
@@ -1325,7 +1324,6 @@ textarea {
 	background: #28B463;
 	text-align: center;
 	margin: 0 6px 6px 0;
-	/* margin: 0 .375rem .375rem 0; */
 	text-transform: uppercase;
 	list-style: none;
 	line-height: 1;
@@ -1336,20 +1334,18 @@ textarea {
             transition-delay: 0s;
 }
 
-#nav__next,
-#btn__green:hover {
+#nav__next:hover {
       color: white;
 	background: #239B56;
 }
 
 #nav__next, 
-#btn__green:hover {
+#nav__next:hover {
 	display: block;
 	padding: 10px 15px;
 }
 
-#nav__prev, 
-#btn__red {;
+#nav__prev {
       text-decoration: none;
       display: block;
       float: left;
@@ -1373,14 +1369,13 @@ textarea {
             transition-delay: 0s;
 }
 
-#nav__prev,
-#btn__red:hover {
+#nav__prev:hover {
       color: white;
 	background: #e22d30;
 }
 
 #nav__prev,
-#btn__red:hover {
+#nav__prev:hover {
 	display: block;
 	padding: 10px 15px;
 }
@@ -1389,7 +1384,82 @@ textarea {
 
 /* Unique button styles */
 
-#btn__blue {;
+
+#btn__green {
+      text-decoration: none;
+      border: transparent;
+      border-radius: 5px;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #28B463;
+	text-align: center;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+
+#btn__green:hover {
+      color: white;
+	background: #239B56;
+}
+
+#btn__green, 
+#btn__green:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+ 
+#btn__red {
+      text-decoration: none;
+      display: block;
+      float: left;
+      padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #ff6347; /* Tomato */
+      text-align: center;	
+      border: transparent;
+	border-radius: 5px;
+	margin: 0 6px 6px 0;
+	/* margin: 0 .375rem .375rem 0; */
+	text-transform: uppercase;
+	list-style: none;
+	line-height: 1;
+	transition: background-color .10s ease-out;
+            transition-property: background-color;
+            transition-duration: 0.1s;
+            transition-timing-function: ease-out;
+            transition-delay: 0s;
+}
+
+#btn__red:hover {
+      color: white;
+	background: #e22d30;
+}
+
+#btn__red,
+#btn__red:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+
+
+#btn__blue {
       text-decoration: none;
       display: block;
       float: left;
@@ -1424,7 +1494,7 @@ textarea {
 	padding: 10px 15px;
 }
 
-#btn__purple {;
+#btn__purple {
       text-decoration: none;
       display: block;
       float: left;
@@ -1459,7 +1529,7 @@ textarea {
 	padding: 10px 15px;
 }
 
-#btn__orange {;
+#btn__orange {
       text-decoration: none;
       display: block;
       float: left;
@@ -1495,7 +1565,7 @@ textarea {
 }
 
 
-#btn__brown {;
+#btn__brown {
       text-decoration: none;
       display: block;
       float: left;
@@ -1531,7 +1601,7 @@ textarea {
 }
 
 
-#btn__yellow {;
+#btn__yellow {
       text-decoration: none;
       display: block;
       float: left;
@@ -1568,7 +1638,7 @@ textarea {
 
 
 
-#btn__pink {;
+#btn__pink {
       text-decoration: none;
       display: block;
       float: left;

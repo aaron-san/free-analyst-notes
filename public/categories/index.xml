@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 16:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 12:14:36 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFA Level 2</title>
+      <link>/categories/cfa-level-2/</link>
+      <pubDate>Wed, 29 Jul 2020 12:14:36 +0000</pubDate>
+      
+      <guid>/categories/cfa-level-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CFA Level 1</title>
       <link>/categories/cfa-level-1/</link>
-      <pubDate>Tue, 28 Jul 2020 16:07:49 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:23:08 +0000</pubDate>
       
       <guid>/categories/cfa-level-1/</guid>
       <description></description>
