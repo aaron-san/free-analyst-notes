@@ -1,7 +1,7 @@
 ---
-title: 'CFA Level 1: Alternative Investments'
-date: "`r Sys.Date()`"
-slug: cfa-level-1-alternative-investments
+title: 'CFA Level 1: Alternative Investments (part 1)'
+lastmod: "`r Sys.Date()`"
+slug: cfa-level-1-alternative-investments-part-1
 categories: 
 - CFA Level 1
 tags:
@@ -15,7 +15,8 @@ summary: "Alternative investments is a growing field full of potential profit op
 
 ## _Futures and Forward Contracts_
 
-### Forward Contract											
+### Forward Contract	
+
 * A customized, unregulated private contract between parties to exchange some asset at a future date and guaranteed price.
 * No clearinghouse or daily settlement (no mark-to-market)
 * Subject to default (but historically safer than futures!)	

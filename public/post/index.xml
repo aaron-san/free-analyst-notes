@@ -6,18 +6,45 @@
     <description>Recent content in Posts on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2020 12:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 13:04:09 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFA Level 1: Quantitative Methods (part 1)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-1/</link>
+      <pubDate>Thu, 30 Jul 2020 13:04:09 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-1/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
+    
+    <item>
       <title>CFA Level 2: Alternative Investments (part 1)</title>
       <link>/post/cfa-level-2-alternative-investments-part-1/</link>
-      <pubDate>Wed, 29 Jul 2020 12:14:36 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2020 13:01:06 +0000</pubDate>
       
       <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
-      <description>Income Property Analysis and AppraisalCapitalization RateMeasuring the Cap RateRecaptured DepreciationPrivate Equity ValuationUnique Sources of Value for Private Equity InvestmentsAdjustments for Probability of FailureThe Basic Venture Capital MethodInvesting in CommoditiesCommodity Futures ReturnsCommodity prices decline for the following reasons (shifts in demand/supply):Supply and DemandPerformance of Hedge FundsMaximum DrawdownMeasures left-tail riskOther Risk MeasuresHedge Fund RisksMaximum DrawdownValue At RiskIncome Property Analysis and AppraisalCapitalization RateCap rate = rNOI - gNOIMeasuring the Cap RateMarket Extraction Method (ME)</description>
+      <description>Alternative investments cover real estate, commodities, hedge funds, private equity, and more. Each of these has its own unique risk and reward features.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Alternative Investments (part 1)</title>
+      <link>/post/cfa-level-1-alternative-investments-part-1/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-alternative-investments-part-1/</guid>
+      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
+      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
     </item>
     
     <item>
@@ -30,48 +57,12 @@
     </item>
     
     <item>
-      <title>CFA Level 1: Quantitative Methods (part 3)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
-      <pubDate>Wed, 29 Jul 2020 11:05:57 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Ethical and Professional Standards</title>
-      <link>/post/cfa-level-1-ethical-and-professional-standards/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-ethical-and-professional-standards/</guid>
-      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
-    </item>
-    
-    <item>
-      <title>Cfa-Level-1-Quantitative-Methods-Part-4</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-4/</link>
-      <pubDate>Tue, 28 Jul 2020 15:50:41 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-4/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
       <title>CFA Level 1: Economics (part 1)</title>
       <link>/post/cfa-level-1-economics/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-economics/</guid>
       <description>The CFA level 1 exam covers economics in great detail, specifically, macroeconomics. It covers demand and supply, market structures, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments</title>
-      <link>/post/cfa-level-1-alternative-investments/</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-alternative-investments/</guid>
-      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
     </item>
     
     <item>
@@ -155,11 +146,11 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>CFA Level 1: Quantitative Methods (part 1)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-1/</link>
+      <title>CFA Level 1: Quantitative Methods (part 3)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-1-quantitative-methods-part-1/</guid>
+      <guid>/post/cfa-level-1-quantitative-methods-part-3/</guid>
       <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
@@ -173,6 +164,15 @@ Follow the following steps:
 CFA Level 2Alternative Investments
 CFA Level 3Alternative Investments
 </description>
+    </item>
+    
+    <item>
+      <title>Cfa-Level-1-Quantitative-Methods-Part-4</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-4/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
     </item>
     
   </channel>

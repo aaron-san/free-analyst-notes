@@ -1,8 +1,8 @@
 ---
-title: "CFA Level 1: Ethical and Professional Standards"
+title: "CFA Level 1: Ethical and Professional Standards (part 1)"
 author: ''
 date: "`r Sys.Date()`"
-slug: cfa-level-1-ethical-and-professional-standards
+slug: cfa-level-1-ethical-and-professional-standards-part-1
 categories:
 - Ethical and Professional Standards
 tags:

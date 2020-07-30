@@ -10,8 +10,8 @@ tags:
 output:
       blogdown::html_page:
             toc: true
-summary: ""
-thumbnail: ""
+summary: "Alternative investments cover real estate, commodities, hedge funds, private equity, and more. Each of these has its own unique risk and reward features."
+thumbnail: "/post/cfa-level-2-alternative-investments-part-1_files/barley.jpg"
 ---
 
 
