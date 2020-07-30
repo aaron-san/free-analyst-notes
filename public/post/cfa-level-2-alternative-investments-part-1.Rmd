@@ -59,10 +59,8 @@ Equity Reversion After Taxes (ERAT)
 ## Recaptured Depreciation	
 
 * Recaptured depreciation represents  depreciation that was taken in anticipation of a decline in the value of an asset that ultimately did not materialize.
-
 * Recaptured depreciation = Accumulated depreciation (A/D)
-
-Tax on recaptured depreciation = Accumulated depreciaiton * tax on recaptured depreciation												
+* Tax on recaptured depreciation = Accumulated depreciaiton * tax on recaptured depreciation												
 Tax on capital gains = tax rate on capital gains * (capital gain - recaptured depreciation)												
 												
 												
@@ -115,18 +113,12 @@ $\mathrm {\large {r_{adj} =  \frac{1 + r_{unadj}} {1 - Pr(failure)} - 1}}$
       * $\mathrm {\large {\text {PRE} = \text{POST - Investment}}}$
 
 * Step 3: Determine the ownership fraction for the investor (f)
-
     + $\mathrm {\large {f =  \frac{\text{Investment}} {POST}}}$
-
 * Step 4: Determine the number of investor shares ("y")
-
-
-
-Step 5: Determine the price per share												
+* Step 5: Determine the price per share										
 												
 								
-												
-												
+									
 ## Investing in Commodities	
 												
 Commodity Futures Trading Commission (CFTC)												
