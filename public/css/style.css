@@ -242,8 +242,11 @@ mark {
 }
 
 figure {
-	margin: 0 0 20px;
-	margin: 0 0 1.25rem;
+	/* margin: 0 0 20px;
+	margin: 0 0 1.25rem; */	
+	display: block;
+	margin-left: auto;
+      margin-right: auto;
 }
 
 figcaption {
@@ -660,13 +663,15 @@ select {
 }
 
 .post__thumbnail {
-	max-width: 1030px;
+	max-width: 300px;
 	margin: 0 0 20px;
 	margin-bottom: 0 0 1.25rem;
 }
 
 .post__thumbnail img {
+	display: block;
 	width: 100%;
+	border-radius: 2%;
 }
 
 .content a,
@@ -714,6 +719,10 @@ select {
 }
       
 
+#TOC ul li a {
+      color: #EFFE98; /* TOC font color */
+      font-size: 16px;
+}
 
 #TOC ul li {
 	list-style: none; 
@@ -795,20 +804,14 @@ select {
 
 /* Table of Contents */
 .toc {
-	margin-bottom: 20px;
-	font-weight: 700;
+	margin-bottom: 10px;
+	font-weight: 600;
 	color: #7a8288;
 	background: #fff;
-	border-color: #ebebeb;
-	border-style: solid;
-	border-top-width: 1px;
-	border-right-width: 1px;
-	border-bottom-width: 0;
-	border-left-width: 1px;
 }
 
 .toc__title {
-	padding: 5px 10px;
+	padding: 6px 6px;
 	color: #fff;
 	text-transform: uppercase;
 	-webkit-user-select: none;
@@ -817,7 +820,17 @@ select {
 	-o-user-select: none;
 	user-select: none;
 	background: #2a2a2a;
+	border-top: 1px dotted #ebebeb;
+	border-left: 1px dotted #ebebeb;
+	border-right: 1px dotted #ebebeb;
 }
+
+div #TOC {
+      border-bottom: 1px dotted #ebebeb;
+      margin-bottom: 15px;
+}
+
+
 
 .toc__menu ul {
 	margin: 0;
