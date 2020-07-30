@@ -722,7 +722,7 @@ select {
       
 
 #TOC ul li a {
-      color: #EFFE98; /* TOC font color */
+      color: #F8EDB2; /* TOC font color */
       font-size: 16px;
 }
 
@@ -862,7 +862,7 @@ div #TOC {
 .toc__menu a {
 	display: block;
 	padding: 5px 10px;
-	color: #f2e6ff;
+	color: #ffddcc;
 	border-bottom: 1px solid #ebebeb;
 }
 
