@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CFA Level 2 on Free Analyst Notes</title>
-    <link>/categories/cfa-level-2/</link>
-    <description>Recent content in CFA Level 2 on Free Analyst Notes</description>
+    <title>Fixed income on Free Analyst Notes</title>
+    <link>/tags/fixed-income/</link>
+    <description>Recent content in Fixed income on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2020 14:13:18 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cfa-level-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/fixed-income/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/post/cfa-level-2-fixed-income-part-1/</guid>
       <description>Credit AnalysisCredit RiskDefault RiskCredit Spread RiskDowngrade RiskCredit ratings by the nationally recognized rating agencies assess default risk only.Releases by Rating AgenciesCredit Rating - reflects the probability of default (short- and long-term debt) and the rate of loss (long-term debt)Rating Watch - announcement that the rating agency is reviewing a particular issue in advance of a potential rating changeRating Outlook -</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 2: Alternative Investments (part 1)</title>
-      <link>/post/cfa-level-2-alternative-investments-part-1/</link>
-      <pubDate>Thu, 30 Jul 2020 13:48:14 +0000</pubDate>
-      
-      <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
-      <description>Alternative investments cover real estate, commodities, hedge funds, private equity, and more. Each of these has its own unique risk and reward features.</description>
     </item>
     
   </channel>

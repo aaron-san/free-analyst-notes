@@ -3,8 +3,10 @@ title: 'CFA Level 2: Fixed Income (part 1)'
 author: ''
 lastmod: '`r Sys.time()`'
 slug: cfa-level-2-fixed-income-part-1
-categories: []
-tags: []
+categories: 
+- CFA Level 2
+tags: 
+- Fixed income
 description: 'Fixed income covers the topic of bonds and other coupon-like investment securities.'
 thumbnail: '/post/2020-07-30-cfa-level-2-fixed-income-part-1_files/calculator.jpg'
 ---
