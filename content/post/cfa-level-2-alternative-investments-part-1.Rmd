@@ -101,26 +101,24 @@ $\mathrm {\large {r_{adj} =  \frac{1 + r_{unadj}} {1 - Pr(failure)} - 1}}$
 
 * Step 1: Determine the post-money valuation ("POST")
 										
-      * $\mathrm {\large {POST =  \frac{\text{Exit Value}} {(1 + r)^t}}}$
-      * The only positive cash flow (capital gain, no dividends) in this model occurs at the time of exit (typically an IPO or acquisition)
-      * The Exit Value is an estimate of the value of a company at the time of an exit event, be it an IPO or an acquisition
-      * $\mathrm {\large {\text {Exit Value} = \text{Earnings Multiple} \times \text{Estimate of terminal earnings}}}$
-      * $\mathrm {\large {\text {Exit Value} = \text{PV(expected future cash flows)}}}$
-      * Exit Value measures the value of the company in the case of _success_
+      + $\mathrm {\large {POST =  \frac{\text{Exit Value}} {(1 + r)^t}}}$
+      + The only positive cash flow (capital gain, no dividends) in this model occurs at the time of exit (typically an IPO or acquisition)
+      + The Exit Value is an estimate of the value of a company at the time of an exit event, be it an IPO or an acquisition
+      + $\mathrm {\large {\text {Exit Value} = \text{Earnings Multiple} \times \text{Estimate of terminal earnings}}}$
+      + $\mathrm {\large {\text {Exit Value} = \text{PV(expected future cash flows)}}}$
+      + Exit Value measures the value of the company in the case of _success_
 
 * Step 2: Determine the pre-money valuation ("PRE")
 
-      * $\mathrm {\large {\text {PRE} = \text{POST - Investment}}}$
+      + $\mathrm {\large {\text {PRE} = \text{POST - Investment}}}$
 
 * Step 3: Determine the ownership fraction for the investor (f)
-    + $\mathrm {\large {f =  \frac{\text{Investment}} {POST}}}$
+      + $\mathrm {\large {f =  \frac{\text{Investment}} {POST}}}$
 * Step 4: Determine the number of investor shares ("y")
-* Step 5: Determine the price per share										
-												
-								
+* Step 5: Determine the price per share				
 									
 ## Investing in Commodities	
-												
+										
 Commodity Futures Trading Commission (CFTC)												
 U.S. regulator of futures trading												
 												

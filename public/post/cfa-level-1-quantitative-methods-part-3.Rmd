@@ -19,89 +19,110 @@ thumbnail: ""
 * Hypothesis Testing (testing validity of parameters)													
 Estimation (estimation of parameters)														
 														
-Sampling Bias														
-Data Mining														
-??? Out-of-Sample Test: using a sample that does not overlap the time period of the variable under consideration														
-??? Intergenerational Data Mining: repeatedly using data produced by prior researchers until a pattern is discovered														
-??? A data-mining bias occurs when variables are added to an analysis without any predictive merit (i.e., there is no causal relationship for adding the variables). The variables are not added to enhance prediction, but to thwart the predictive relationship between other variables.														
-														
-Sample Selection Bias														
-Using data availability as a criteria for sampling														
-														
-Survivorship Bias														
-Excluding data that is discontinued (defaulted firms)														
-														
-Look-ahead Bias														
-Using data that is not currently available to every market participant														
-														
-Time-period Bias														
-Using data that is inherently influenced by a specific time-period that skews the results														
-														
-## Estimators		
-"UEC"											
-* Unbiased				
-      * The expected value of the estimator equals the value of the parameter			
-* Efficient					
-      * The variance of the estimator is the least of all other estimators of the parameter						
-* Consistent					
-      * The probability that the estimator equals the paramater increases with increasing sample size														
-														
+## Sampling Bias	
+
+###  Data Mining	
+
+* **Out-of-Sample Test:** using a sample that does not overlap the time period of the variable under consideration
+* **Intergenerational Data Mining:** Involves repeatedly using data generated from prior researchers until a pattern is discovered
+* A **data-mining bias** occurs when variables are added to an analysis that don't have any predictive value (i.e., no causal relationship).
+
+### Sample Selection Bias           
+
+* Using only data that is available
+
+### Survivorship Bias	
+
+* Excluding data that is discontinued
+* Sometimes databases remove firms just because there will be no future updates to the data. When the data is removed, the overall performance of the entire data set is increased.
+
+## Look-ahead Bias	
+
+* Using data that is not currently available to every market participant						
+
+## Time-period Bias	
+
+* Using data that is inherently influenced by a specific time-period that skews the results					
+
+## Estimators ("U-E-C")
+    
+* Unbiased ("U")
+    + The expected value of the estimator equals the value of the parameter
+* Efficient ("E")
+    + The variance of the estimator is the least of all other estimators of the parameter
+* Consistent ("C")
+    + The probability that the estimator equals the parameter increases with increasing sample size
+      
 ## Skewed Distribution	
 
-No Skew:      Mode = Median = Mean														
-Left Skew:    Mode > Median > Mean														
-Right Skew:  Mode < Median < Mean														
+|    |     |
+| :---------- | :----------: |
+| None | Mode = Median = Mean |
+| Left Skew | Mode > Median > Mean |
+| Right Skew | Mode < Median < Mean |
+
 														
-	Z	Confidence	Z	Confidence										
-	1.65	90%	1	68%										
-	1.96	95%	2	95%										
-	2.58	99%	3	99%										
+| Z | Confidence  | Z  | Confidence  |
+| :-------: | :-------: | :--------: | :-------: |
+| 1.65	| 90%	| 1	| 68% |
+| 1.96	| 95%	| 2	| 95% |									
+| 2.58	| 99%	| 3	| 99% |										
+												
+## Confidence Interval 			
+
+* Probabilistic interpretation:  
+    + *"__% of the resulting confidence intervals will, in the long run, contain the population parameter."*
+* Practical interpretation:  
+    + *"We are __% confident the given confidence interval contains the population parameter."*
+    
+## Total Probability Rule	
+
+$\mathrm {\large {P(A) = P(A|B) \cdot P(B) + P(A|C) \cdot P(C)) }}$
+
+## Addition Rule of Probability	
+
+$\mathrm {\large {P(A \cup B) = P(A) + P(B) - P(A \cap B)}}$
 														
-Confidence Interval 														
-Probabilistic interpretation:  __% of the resulting confidence intervals will, in the long run, contain the population parameter														
-Practical interpretation:  We are __% confident the given confidence interval contains the population parameter														
+## Multiplication Rule of Probability	
+
+$\mathrm {\large {P(A \cap B) = P(A) \cdot P(B)}}$
 														
-Total Probability Rule														
-Pr(A) = Pr(A|B)Pr(B) + Pr(A|C)Pr(C)														
+## Steps in Hypothesis Testing		
+
+1. State hypothesis	
+2. Decide the test statistics and probability distribution
+3. Choose a significance level
+4. Choose a decision rule
+5. Collect data and calculate the test statistic				
+6. Make a statistical decision
+7. Make an economic decision
+
+## Power of  a Test			
+
+* If the null hypothesis is false and is rejected, then a correct decision was made. If the null hypothesis is false but is not rejected, an error was made and the probability of making this error is the **power** of a test.
+* In other words, the **power** is the probability of rejecting a false null hypothesis
+
+$\mathrm {\large {Power = 1 - \beta = 1 - P(\text {Type II error}) }}$
+
+## Labeling
+
+* How many ways can k labels can be assigned to n items?
+* The number of items that receive label 1 is n1, where n1 + n2 + n3 + ... + nk = n	
 														
-Addtion Rule of Probability														
-Pr(A or B) = Pr(A) + Pr(B) - Pr(A and B)														
-														
-Multiplication Rule of Probability														
-Pr(A and B) = Pr(A)Pr(B)														
-														
-Steps in Hypothesis Testing														
-1. State hypothesis														
-2. Decide on test statistics and probability distribution														
-3. Decide on significance level														
-4. Decide on decision rule														
-5. Collect data and calculate test statistic														
-6. Make statistical decision														
-7. Make economic decision														
-														
-Power of  a Test														
-The probability of rejecting a false null hypothesis														
-Power = 1-$\beta$ = 1-Pr(Type II error)														
-														
-Labeling														
-How many ways can k labels can be assigned to n items														
-The number of items that receive label 1 is n1, where n1+n2+n3+.+nk = n														
-														
-														
-														
-														
-														
-Test for Population Mean (Z-stat)														
-Assumptions:														
-Known variance (or unknown if n>30)														
-Normal distribution (or nonnormal if n>30)														
-														
-Test for Population Mean (T-Stat)														
-Assumptions:														
-Unknown variance and...														
-Either														
-1. sample is large (n>30) or...														
-2. sample is small, but the population is at least approximately normally distributed														
+$\mathrm {\large {\frac{n!} {n_1! \space \cdot \space n_2! \space \cdot \space ... \space \cdot \space n_k!}}}$
+
+## Test for Population Mean (Z-stat)	
+
+* Assumptions:
+    + Known variance (or unknown if n $\geq$ 30)
+    + Normal distribution (or non-normal if n $\geq$ 30)
+    
+## Test for Population Mean (T-Stat)	
+
+* Assumptions:													
+    + Unknown variance AND either:
+        1. sample is large (n $\geq$ 30) or...
+        2. sample is small, but the population is at least approximately normally distributed				
 														
 ## Test of Mean Differences (T Statistic)	            
 
@@ -111,42 +132,44 @@ Either
       
 ## Test for Difference Between Means (t-stat)			
 
-* Assumptions:					
-      * Normally distributed populations,				
-      * Independent populations
-      * Population variances unknown, but assumed equal
+### Method 1 
+
+* Assumptions:
+    + Normally distributed populations,				
+    + Independent populations
+    + Population variances unknown, but assumed equal
       
-df = n1+n2-2														
-																									
-														
-Assumptions:														
-Normally distributed populations														
-Independent populations														
-Unequal and unknown population variances														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
+$\mathrm {\large {t = \frac{ (x_1 - x_2) - (\mu_1 - \mu_2) } {\sqrt{\left( \frac{s_p^2}{n_1}+\frac{s_p^2}{n_2} \right)} } }}$
+
+$\mathrm {\large {df = n1 + n2 - 2}}$
+
+$\mathrm {\large {s_p^2 = \frac{ (n_1-1)s_1^2 + (n_2-1)s_2^2 } { n_1 + n_2 - 2} } }$
+
+### Method 2
+
+* Assumptions:		
+    + Normally distributed populations				
+    + Independent populations
+    + Unequal and unknown population variances
+    
+$\mathrm {\large {t = \frac{ (x_1 - x_2) - (\mu_1 - \mu_2) } {\sqrt{\left( \frac{s_1^2}{n_1}+\frac{s_2^2}{n_2} \right)} } }}$
+
+$\mathrm {\large {df = \frac{\left( \frac{ s_1^2 } {n_1} + \frac{ s_2^2 } {n_2}\right)^2} {\frac{\left(s_1^2 / n_1 \right)^2} {n_1} + \frac{\left(s_2^2 / n_2 \right)^2} {n_2} }}}$
 														
 In majority of cases, the T-test is used!														
-														
-Assumptions:														
-Normally distributed populations														
-Dependent populations														
-														
-														
-														
-														
-														
-Stocks are generally considered to be dependent (both rely on market returns)														
+
+### Test for significant difference in two means
+
+* Assumptions:
+    + Normally distributed populations
+    + Dependent populations		
+
+$\mathrm {\large {t = \frac{ \bar d - d_{zs} } { s_{\bar d} / \sqrt n }}}$													
+						
+Note: Stocks are generally considered to be dependent (both rely on market returns)														
+	
+	
+	
 														
 		Test Statistic												
 When sampling from a:		Small Sample	Large Sample											

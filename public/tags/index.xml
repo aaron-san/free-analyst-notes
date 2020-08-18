@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 14:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 12:31:24 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternative Investments</title>
+      <link>/tags/alternative-investments/</link>
+      <pubDate>Tue, 18 Aug 2020 12:31:24 +0000</pubDate>
+      
+      <guid>/tags/alternative-investments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Methods</title>
+      <link>/tags/quantitative-methods/</link>
+      <pubDate>Tue, 18 Aug 2020 11:38:59 +0000</pubDate>
+      
+      <guid>/tags/quantitative-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fixed income</title>
@@ -21,38 +48,11 @@
     </item>
     
     <item>
-      <title>Alternative Investments</title>
-      <link>/tags/alternative-investments/</link>
-      <pubDate>Thu, 30 Jul 2020 13:48:14 +0000</pubDate>
-      
-      <guid>/tags/alternative-investments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantitative Methods</title>
-      <link>/tags/quantitative-methods/</link>
-      <pubDate>Thu, 30 Jul 2020 13:04:09 +0000</pubDate>
-      
-      <guid>/tags/quantitative-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CFA Level 1</title>
       <link>/tags/cfa-level-1/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cfa-level-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economics</title>
-      <link>/tags/economics/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/economics/</guid>
       <description></description>
     </item>
     

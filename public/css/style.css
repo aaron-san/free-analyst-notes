@@ -389,7 +389,7 @@ select {
 /* Header */
 .header {
 	background: #262626;
-	color: #000;
+	color: #ffddcc;
 }
 
 .logo {
@@ -732,6 +732,10 @@ select {
 	list-style: square; 
 }
 
+/* Second-level bullet style */
+.content ul li ul li{
+      list-style: circle; /* disc; decimal; square; */
+}
 
 .content ol {
 	list-style: decimal;
@@ -1005,7 +1009,7 @@ video {
 
 /* Table */
 table {
-	width: 100%;
+	width: 50%;
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
 	border-spacing: 0;

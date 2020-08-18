@@ -2,7 +2,7 @@
 title: "CFA Level 1: Quantitative Methods (part 2)"
 slug: cfa-level-1-quantitative-methods-part-2
 description: ""
-lastmod: "2020-07-29 11:23:08"
+lastmod: "2020-08-18 11:38:59"
 categories:
 - CFA Level 1
 tags:
@@ -28,7 +28,12 @@ thumbnail: ""
 <li><a href="#combination">Combination</a></li>
 <li><a href="#shortfall-risk">Shortfall Risk</a></li>
 <li><a href="#safety-first-rule">Safety-First Rule</a></li>
+<li><a href="#continuously-compounded-return">Continuously Compounded Return</a></li>
+<li><a href="#independent-and-identically-distributed-iid">Independent and Identically Distributed (IID)</a></li>
+<li><a href="#annualizing">Annualizing</a></li>
+<li><a href="#volatility">Volatility</a></li>
 <li><a href="#monte-carlo-simulation">Monte Carlo Simulation</a></li>
+<li><a href="#asian-call-option">Asian Call Option</a></li>
 <li><a href="#hedging-horizon">Hedging Horizon</a></li>
 <li><a href="#lookback-call-option">Lookback Call Option</a></li>
 </ul>
@@ -89,40 +94,67 @@ Number of ways to label k items out of n items with n1 of the first type, n2 of 
 <div id="shortfall-risk" class="section level2">
 <h2>Shortfall Risk</h2>
 <ul>
-<li>Risk that a return will fall below a specifided target level</li>
+<li>Risk that a return will fall below a specified target level</li>
 </ul>
 </div>
 <div id="safety-first-rule" class="section level2">
 <h2>Safety-First Rule</h2>
-<p>SFRatio<br />
-If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio).<br />
-The farther from the limiting return, the greater the spread between E(RP) and RL.</p>
-<p>Price Relative</p>
-<p>Continuously Compounded Return</p>
-<p>Independent and Identically Distributed (IID)<br />
-Key assumption for asset returns<br />
-Independence - investors cannot use past returns to predict future returns (i.e. weak-form market efficiency)<br />
-Indentical Distribution - mean and variance do not change with time</p>
-<p>Annualizing<br />
-Annualizing is often done on the basis of a 250 days in a year, the approximate number of days markets are open for trading. (p. 452)</p>
-<p>Volatility<br />
-The instantaneous standard deviation.</p>
+<pre><code>                                        * $\mathrm {\large {SF = \frac{E(R_{p}) - R_{L}} {\sigma _{p}}}}$       </code></pre>
+<ul>
+<li>If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SF).<br />
+</li>
+<li>The farther from the limiting return, the greater the spread between E(RP) and RL.</li>
+</ul>
+<p>Price Relative
+* One way to express returns is to take the ratio of the price in a given year (t+1) and divide it by the price in the previous year (t).
+* <span class="math inline">\(\mathrm {\large \frac{S_{t+1}} {S_{t}} = 1 + R_{t, t+1}}\)</span></p>
+</div>
+<div id="continuously-compounded-return" class="section level2">
+<h2>Continuously Compounded Return</h2>
+<ul>
+<li><span class="math inline">\(\mathrm {\large r_{t, t+1} = ln(\frac{S_{t+1}} {S_{t}}) = ln(1 + R_{t, t+1})}\)</span></li>
+</ul>
+</div>
+<div id="independent-and-identically-distributed-iid" class="section level2">
+<h2>Independent and Identically Distributed (IID)</h2>
+<ul>
+<li>Key assumption for asset returns
++ <strong><em>Independence</em></strong> - investors cannot use past returns to predict future returns (i.e. weak-form market efficiency)
++ <strong><em>Identical Distribution</em></strong> - mean and variance do not change with time</li>
+</ul>
+</div>
+<div id="annualizing" class="section level2">
+<h2>Annualizing</h2>
+<ul>
+<li>Annualizing of stock returns is often done on the basis of a 250 days in a year, the approximate number of days markets are open for trading.</li>
+</ul>
+</div>
+<div id="volatility" class="section level2">
+<h2>Volatility</h2>
+<ul>
+<li>Although in statistics, <em>volatility</em> refers to the square of standard deviation, <em>volatility</em> is often used to refer to the standard deviation.</li>
+</ul>
 </div>
 <div id="monte-carlo-simulation" class="section level2">
 <h2>Monte Carlo Simulation</h2>
 <ul>
-<li>A simulation of potential outcomes (“what ifs”) with time</li>
+<li>A simulation of potential outcomes that can be cross-sectional or conducted across time<br />
+</li>
 <li>Used to assess risk<br />
 </li>
-<li>Consists of multiple simulations of outcome using predetermined probability distributions<br />
-</li>
+<li>Consists of multiple simulations of outcome using predetermined probability distributions</li>
 <li>Each simulation trial involves a drawing of random values</li>
 <li>Uses time increments and general assumptions about risk factors (growth, volatility, etc.)<br />
 </li>
-<li>Cannot provide the insight that analytic methods can!</li>
+<li>Cannot provide the insight that analytic methods can</li>
 </ul>
-<p>Asian Call Option</p>
-<p>European-style option with value at maturity equal to difference between the stock price at maturity and the average stock price during the life of the option or $0, whichever is greater.</p>
+</div>
+<div id="asian-call-option" class="section level2">
+<h2>Asian Call Option</h2>
+<ul>
+<li>European-style option with value at maturity equal to the difference between the stock price at maturity and the average stock price during the life of the option, or $0, whichever is greater.</li>
+<li><span class="math inline">\(\mathrm {\large Value_{T} = Max(0, S_{T} - \bar{S})}\)</span></li>
+</ul>
 </div>
 <div id="hedging-horizon" class="section level2">
 <h2>Hedging Horizon</h2>

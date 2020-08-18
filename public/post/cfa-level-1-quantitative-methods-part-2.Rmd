@@ -59,48 +59,48 @@ Number of ways to label k items out of n items with n1 of the first type, n2 of 
 
 ## Shortfall Risk		
 
-* Risk that a return will fall below a specifided target level
+* Risk that a return will fall below a specified target level
 
 ## Safety-First Rule          
+											* $\mathrm {\large {SF = \frac{E(R_{p}) - R_{L}} {\sigma _{p}}}}$		
+* If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SF).			
+* The farther from the limiting return, the greater the spread between E(RP) and RL.
 
-SFRatio														
-	If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio).													
-	The farther from the limiting return, the greater the spread between E(RP) and RL.													
-														
-Price Relative														
-														
-														
-														
-Continuously Compounded Return														
-														
-														
-														
-														
-														
-														
-Independent and Identically Distributed (IID)														
-Key assumption for asset returns														
-Independence - investors cannot use past returns to predict future returns (i.e. weak-form market efficiency)														
-Indentical Distribution - mean and variance do not change with time														
-														
-Annualizing														
-Annualizing is often done on the basis of a 250 days in a year, the approximate number of days markets are open for trading.  (p. 452)														
-														
-Volatility														
-The instantaneous standard deviation.														
-														
+Price Relative
+* One way to express returns is to take the ratio of the price in a given year (t+1) and divide it by the price in the previous year (t).
+* $\mathrm {\large \frac{S_{t+1}} {S_{t}} = 1 + R_{t, t+1}}$
+
+## Continuously Compounded Return
+
+* $\mathrm {\large r_{t, t+1} = ln(\frac{S_{t+1}} {S_{t}}) = ln(1 + R_{t, t+1})}$
+
+## Independent and Identically Distributed (IID)
+
+* Key assumption for asset returns
+      + ***Independence*** - investors cannot use past returns to predict future returns (i.e. weak-form market efficiency)
+      + ***Identical Distribution*** - mean and variance do not change with time
+      
+## Annualizing	
+
+* Annualizing of stock returns is often done on the basis of a 250 days in a year, the approximate number of days markets are open for trading.
+
+## Volatility	
+
+* Although in statistics, _volatility_ refers to the square of standard deviation, _volatility_ is often used to refer to the standard deviation.
+
 ## Monte Carlo Simulation           
 
-* A simulation of potential outcomes ("what ifs") with time	
-* Used to assess risk						
-* Consists of multiple simulations of outcome using predetermined probability distributions		
+* A simulation of potential outcomes that can be cross-sectional or conducted across time	
+* Used to assess risk			
+* Consists of multiple simulations of outcome using predetermined probability distributions
 * Each simulation trial involves a drawing of random values	
 * Uses time increments and general assumptions about risk factors (growth, volatility, etc.)				
-* Cannot provide the insight that analytic methods can!	
+* Cannot provide the insight that analytic methods can
 
-Asian Call Option
+## Asian Call Option
 
-European-style option with value at maturity equal to difference between the stock price at maturity and the average stock price during the life of the option or $0, whichever is greater.	
+* European-style option with value at maturity equal to the difference between the stock price at maturity and the average stock price during the life of the option, or $0, whichever is greater.
+* $\mathrm {\large Value_{T} = Max(0, S_{T} - \bar{S})}$
 
 ## Hedging Horizon            
 
