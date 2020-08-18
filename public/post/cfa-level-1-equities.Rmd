@@ -183,3 +183,14 @@ Test for ability to use public market and non-market information to earn abnorma
   + Manage a portfolio of a company that already has SEC issuance clearance.
   + Buy company with ETF issuance clearance.			
 										
+
+<hr>
+
+<a id="nav__prev" href="../cfa-study-topics">Topics List</a>
+
+<!-- <a id="nav__next" href="../cfa-level-1-quantitative-methods-part-2">Next</a> -->
+
+<br>
+										
+										
+										

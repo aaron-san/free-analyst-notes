@@ -16,6 +16,7 @@ thumbnail: ''
 
 
 ## Professional Conduct Program (PCP)					
+
 * If a Designated Officer determines that a sanction against a member is warranted, the member must either accept the sanction or face a hearing by a panel of CFA Institute members.
 * Members who provide confidential information that is solicited by  PCP staff is not in violation of the Standard III(E) Preservation of Confidentiality.
 
@@ -49,19 +50,21 @@ vii. Responsibilities as a CFA Instute Member or CFA Candidate
 
 ## Professional Standards	
 
-i. Professionalism
-      a. Knowledge of the Law
-            + Reporting Violations:					
-	            1. Inform employer's compliance department and supervisor and attempt to remedy the solution
-	            2. Dissociate from activity (Resignation or reassignment)
-	            3. Inform legal or regulatory authorities
-            + Must comply with the more strict law, rule, or regulation
-            + Must not knowingly participate or assist in and, must dissociate from any violation of such laws, rules, or regulations
-            + Members or Candidates are can participate in a violation simply by having knowledge of the violation and not taking action to stop it
-            + Ignorance of a rule or law is not a sufficient defense
-            + Don't have to report violations of laws or the Code and Standards to either the CFA Instute or governmental authorities, unless required by law					
-            + Must disassociate from any illegal activity and actively urge the firm (either an immediate supervisor or a compliance officer) to cease any conduct that violates the law or an applicable regulation or standard. Inaction might be judged, (even in a court of law), as participating or assisting, which violates the Standard.
-      b. Independence and Objectivity
+### I - Professionalism
+### I(A) - Knowledge of the Law
+    
+* Reporting Violations:					
+    1. Inform employer's compliance department and supervisor and attempt to remedy the solution
+    2. Dissociate from activity (Resignation or reassignment)
+    3. Inform legal or regulatory authorities
+* Must comply with the stricter of the law, rule, or regulation
+* Must not knowingly participate or assist in and, must dissociate from any violation of such laws, rules, or regulations
+*  Members or Candidates can participate in a violation simply by having knowledge of the violation and not taking action to stop it
+* Ignorance of a rule or law is not a sufficient defense
+* Don't have to report violations of laws or the Code and Standards to either the CFA Instute or governmental authorities, unless required by law					
+* Must disassociate from any illegal activity and actively urge the firm (either an immediate supervisor or a compliance officer) to cease any conduct that violates the law or an applicable regulation or standard. Inaction might be judged, (even in a court of law), as participating or assisting, which violates the Standard.
+ 
+### III(B) - Independence and Objectivity
             + Must use reasonable care and judgment to achieve and maintain independence and objectivity
             + Must not offer, solicit, or accept any gift, benefit, compensation, or consideration that reasonably could be expected to compromise their own or another's independence and objectivity
             + Gifts must be disclosed to the member's employer in any case, either prior acceptace, if possible, or subsequently.
@@ -124,186 +127,19 @@ iii. Duties to Clients
             + Should forgo any sales to themselves or their immediate families to free up additional shares of oversubscribed stock issues for clients
             + Employers should compare personal transactions of employees with those of clients on a regular basis regardless of the existence of a requirement by any regulatory organization.
       c. Suitability
-            + Must make reasonable inquiry into a client's investment experience, objectives and constraints, and regularly update this information													
-	Suitability is judged in an overall portfolio context and not on a security-by-security basis													
-	Make sure investment recommendations conicide with clients' written objectives													
-	Brief communications are permitted (as brief as a list of recommended securities) as long as these recommendations are supported by appropriate background reports that can be made available to clients upon request. Sending a recommended list to all clients, even though not every recommended security is suitable for them, is not a violation of the Standards.													
-														
-														
-	For unsolicited trades that conflict with investment objectives, must receive affirmative statement acknowledging that suitability is not a concern													
-														
-	Must updated Investment Policy Statement (IPS) at least annually													
-	Suitability does not become a concern until an investor has taken action													
-	For unsolicited trades that conflict with investment recommendations, must advise the client of the change in recommendation before accepting the order													
-														
-														
-III(D) - Performance Presentation														
-	Must make reasonable efforts to ensure that performance presentation is fair, accurate, and complete													
-	Must include terminated accounts as part of historical performance													
-	Consider the sophistication of audience													
-	No minimum performance history is required													
-	Simulated results can be reported, as long as this is disclosed													
-	Must disclose if results are realized under the authority of another firm													
-	Footnote disclosure is not enough to comply with this standard													
-	Recommended to disseminate  new recommendations to all clients who express an interest or for whom the investment is suitable													
-	Must cite specific source of investment performance (e.g. "investment experts" is too vague)													
-	Recommended to use GIPS in performance presentation													
-														
-III(E) - Preservation of Confidentiality														
-	Must keep client information confidential unless 1.) it involves illegal activities, 2.) disclosure is required by law, or 3.) the client permits disclosure													
-														
-	Must report illegal activity to employer first and then, if necessary, seek outside counsel													
-	Can disclose confidential information to authorized fellow employees to ensure that a manager is aware of a client's needs and concerns													
-														
-	Must not disclose confidential infortion, even if it benefits the client													
-														
-IV: Duties to Employers														
-IV(A) - Loyalty														
-	In matters of employment, must act for the benefit of their employer and not deprive their employer of advantage of their skills and abilities													
-														
-	May use prior knowledge and professional skill in new jobs													
-	Must not misappropriate trade secrets or solicit employer's clients before leaving, unless written consent from employer is received													
-	No requirement to place employer interests above family and other personal obligations													
-	Whistleblowing is not a violation of the Standards, unless it is done to promote personal gains instead of to protect clients or markets													
-	Both employees and independent contractors must abide by the Standards													
-														
-IV(B) - Additional Compensation Arrangements														
-	Must not engage in activities that might reasonably create a conflict of interest with an employer, unless written request and consent from all parties is obtained													
-														
-	Independent practice for compensation is allowed if a written notification is provided to the employer fully describing all aspects of the services, including compensation, duration, and the nature of the activities and if the employer consents to all terms of the proposed independent practice before it begins													
-														
-														
-	Accepting work that competes with employer is acceptable, but only after written notification is received from employer													
-														
-														
-IV(C) - Responsibilities of Supervisors														
-	Must make reasonable efforts to detect and prevent violations of applicable laws, rules, regulations, and the Code and Standards by anyone subject to supervision or authority													
-														
-	Must take action to prevent future violations													
-	Must incorporate and disseminate details of a Professional Conduct Evaluation to all appropriate employees													
-	If a member cannot discharge compliance responsibilities because of a poor compliance system, the member should decline in writing to accept supervisory responsibility until the firm adopts an adequate system													
-														
-														
-V: Investment Analysis, Recommendations, and Action														
-V(A) - Diligence and Reasonable Basis														
-	Must exercise diligence, independence, and thoroughness in all investment activity													
-	Must have a reasonable and adequate basis for investment actions													
-	Use of an unfamiliar investment model is not a violation, unless there is a reasonable suspicion of inadequacy													
-	When using third-party analysis, must review assumptions used and evaluate the objectivity and independence of recommendations													
-														
-	Opinon of another analyst is not an reasonable basis for a recommendation													
-														
-V(B) - Communication with Clients and Prospective Clients														
-	Must disclose to clients the basic format and general principles of the investment processes													
-	Must promptly disclose changes to the basic format and general principles													
-	Must distinguish between fact and opinion													
-	Must notify (verbal or written) of material changes in investment strategy and methods													
-	Personal bankruptcy does not compromise professional reputation, so it is not a required disclosure													
-	Must disclose general strategy of investment management; trade details need not be disclosed													
-														
-      c. Record Retention
-            + Must develop and maintain appropriate records to support investment-related actions and communication with clients and prospective clients
-            + CFA Institute recommends 7 years of record retention
-            + The firm is generally responsible for record-keeping													
-														
-vi. Conflicts of Interest
-      a. Disclosure of Conflicts
-            + Must make full and fair disclosure of matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to clients, prospective clients, and employers
-            + Must ensure that disclosures are prominent and delivered in plain language, and communicate the relevent information effectively
-            + Ownership of an analyzed stock is not a violation, but significant ownership could reasonably be expected to impair judgment
-            + Best practice is to disclose ownership of a covered stock to the employer and in the investment report
-      b. Priority of Transactions
-            + Investment transactions for clients and employers must take precedence over personal trades for personal benefit
-            + Must not trade shares (client or personal shares) before issuing a recommendation report
-	      + Recommended to avoid participating in IPOs to avoid the appearance of conflict													
-	Disclosure is not enough to comply with this standard and the execution price is not relevant
-      c. Referral Fees
-            + Must disclose appropriately to employer, clients, and prospective clients, as appropriate, any compensation received from (or paid to) others for the recommendation of products or services
-            + Must disclose referral agreements, whether external or internal 
-            + Referral fees that are commonly present and reasonably expected to be paid by employer to employee need not be disclosed
-vii. Responsibilities as a CFA Institute Member or CFA Candidate														
-VII(A) - Conduct as Members and Candidates in the CFA program														
-	Must not engage in any conduct that compromises the reputation or integrity of CFA Institute or the CFA designation or the integrity, validity, or security of the CFA examinations													
-														
-	Preparation of an attempt to violate the integrity of an exam challenges the integrity of the CFA program, even if the action is not carried out													
-														
-														
-VII(B) - Reference to CFA Institute, the CFA designation, and the CFA program														
-	Must not exaggerate the meaning of the CFA designation or suggest it's membership gives analysts superior performance potential													
-														
-	Must not use "CFA" as a noun													
-	To Be considered a candidate, individuals must be registered to take the next schedule CFA exam													
-	Allowed to express negative opinions about the CFA Institute of CFA program													
-	Use of the CFA designation to those who have passed all three levels of the CFA Program, have received their charters, and are dues-paying Charterholders in good standing.													
-														
-														
-Global Investment Performance Standards (GIPS)														
-														
-GIPS apply to investment management firms in order to benefit their current and prospective clients														
-														
-FIRMS MUST be defined as an investment firm, subsidiary, or division held out to clients or PROSPECTIVE CLIENTS as a DISTINCT BUSINESS ENTITY.														
-														
-Should include all fee- and non-fee paying accounts in performance presentation														
-Must present 5 years of GIPS-compliant information or less if in business for less than 5 years														
-Must assign portfolios to composites before the returns are known														
-Composite returns must be a asset-weighted average of component returns														
-Firms may include performance figures for periods prior to January 1, 2006, that were compliant with their applicable Country Version of GIPS (CVG), together with GIPS-compliant performance figures for periods after that date														
-														
-When local law conflicts with GIPS, must comply with local law and report conflict in report														
-When the firm has discretion over the selection of sub-advisors, the firm must disclose portfolios managed by subadvisors in its composites														
-Brief presentation is acceptable, as long as details are offered to all investors, upon request														
-														
-Key Characteristics														
-Definition of "the firm" (unique business unit)														
-Fair representation and full disclosure														
-Input data must be accurate														
-No partial compliance														
-Follow local law when it conflicts with GIPS, but disclose conflict														
-														
-Requirements of GIPS														
-Must provide a compliant presentation to all prospects														
-Must provide, to clients requesting it, a compliant presentation and a composite description for any composite included on the firm's list														
-For joint marketing, clearly distinguish non-compliant firms from compliant firms														
-If a firm changes its organization, historical composite results cannot be changed														
-List discontinued composites for at least 5 years														
-Must document, in writing, policies and procedures the firms uses to comply with GIPS.														
-When regulations in a GIPS-compliant firm's home country conflict with GIPS, the firm must foollow any applicable country-specific regulation and disclose the conflict in the GIPS-compliant presentation														
-														
-														
-Compliance Statement														
-"[company name] has prepared and presented this report in compliance with the Global Investment Performance Standards (GIPS&reg;)."													
+            + Must make reasonable inquiry into a client's investment experience, objectives and constraints, and regularly update this information
+            + Suitability is judged in an overall portfolio context and not on a security-by-security basis
+            + Make sure investment recommendations conicide with clients' written objectives
+            + Brief communications are permitted (as brief as a list of recommended securities) as long as these recommendations are supported by appropriate background reports that can be made available to clients upon request. Sending a recommended list to all clients, even though not every recommended security is suitable for them, is not a violation of the Standards.
+            + For unsolicited trades that conflict with investment objectives, must receive affirmative statement acknowledging that suitability is not a concern
+            + Must updated Investment Policy Statement (IPS) at least annually
+            + Suitability does not become a concern until an investor has taken action
+            + For unsolicited trades that conflict with investment recommendations, must advise the client of the change in recommendation before accepting the order
+            
+<hr>
 
-													
-Total firm assets includes total market value of discretionary and non-discretionary assets, including fee-paying nad non-fee paying accounts														
-Composites must include all fee-paying, discretionary portfolios														
-														
-A composite includes all discretionary, fee-paying portfolios that are managed according to the same strategy, objective, or mandate. Non-discretionary portfolios are not included. The firm must choose the composite in which each portfolio will be included on an ex-ante basis (prior to any investment results) according to predetermined criteria, so that the firm cannot selectively include only the best-performing portfolios in a composite. 														
-														
-														
-														
-														
-Major Sections of GIPS														
-1.) Fundamentals of Compliance														
-2.) Input Data														
-3.) Calculation methodology														
-4.) Composite construction														
-5.) Disclosures														
-6.) Presentation and reporting														
-7.) Real estate - applies to most real estate investments, regardless of the degree of leverage or the degree of management by the firm														
-8.) Private equity														
-														
-Compliance with GIPS														
-Verification is not required														
-Verification can be performed by an independent 3rd party only														
-Must be in whole compliance with GIPS to claim compliance														
-Cannot claim partial compliance														
-														
-Verification must be applied on a firm-wide basis; there is no such thing as verification of results for a single composite or portion of the firm's performance. A verification report must be provided upon request, only. Verification must be performed by an independent third party, which does not have to be a public accounting firm. 														
-														
-														
-														
-Presenting GIPS-compliant performance only since the firm's inception is acceptable. Five years is the minimum if the firm has been in existence five years or more. 														
-														
-														
-The firm must add annual performance results each year going forward up to a minimum of ten years of performance history.														
-														
+<a id="nav__prev" href="../cfa-study-topics">Topics List</a>
+
+<a id="nav__next" href="../cfa-level-1-ethical-and-professional-standards-part-2">Next</a>
+
+<br>

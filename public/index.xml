@@ -6,10 +6,19 @@
     <description>Recent content on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 12:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 15:27:59 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CFA Level 2: Fixed Income (part 1)</title>
+      <link>/post/cfa-level-2-fixed-income-part-1/</link>
+      <pubDate>Tue, 18 Aug 2020 15:27:59 +0000</pubDate>
+      
+      <guid>/post/cfa-level-2-fixed-income-part-1/</guid>
+      <description>Fixed income covers the topic of bonds and other coupon-like investment securities.</description>
+    </item>
     
     <item>
       <title>CFA Level 2: Alternative Investments (part 1)</title>
@@ -31,20 +40,38 @@
     
     <item>
       <title>CFA Level 1: Economics (part 1)</title>
-      <link>/post/cfa-level-1-economics/</link>
+      <link>/post/cfa-level-1-economics-part-1/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-1-economics/</guid>
+      <guid>/post/cfa-level-1-economics-part-1/</guid>
       <description>The CFA level 1 exam covers economics in great detail, specifically, macroeconomics. It covers demand and supply, market structures, and more.</description>
     </item>
     
     <item>
-      <title>CFA Level 2: Fixed Income (part 1)</title>
-      <link>/post/cfa-level-2-fixed-income-part-1/</link>
-      <pubDate>Thu, 30 Jul 2020 14:15:21 +0000</pubDate>
+      <title>CFA Level 1: Equities</title>
+      <link>/post/cfa-level-1-equities/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/cfa-level-2-fixed-income-part-1/</guid>
-      <description>Fixed income covers the topic of bonds and other coupon-like investment securities.</description>
+      <guid>/post/cfa-level-1-equities/</guid>
+      <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
+      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Ethical and Professional Standards (part 2)</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards-part-2/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-2/</guid>
+      <description>III Duties to Clients (cont.)III(D) Performance PresentationIII Duties to Clients (cont.)III(D) Performance Presentation* Must make reasonable efforts to ensure that performance presentation is fair, accurate, and complete* Must include terminated accounts as part of historical performance* Consider the sophistication of audience* No minimum performance history is required* Simulated results can be reported, as long as this is disclosed+ Must disclose if results are realized under the authority of another firm+ Footnote disclosure is not enough to comply with this standard+ Recommended to disseminate new recommendations to all clients who express an interest or for whom the investment is suitable+ Must cite specific source of investment performance (e.</description>
     </item>
     
     <item>
@@ -63,24 +90,6 @@
       
       <guid>/post/cfa-level-1-alternative-investments-part-1/</guid>
       <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
-      <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
-      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Equities</title>
-      <link>/post/cfa-level-1-equities/</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-equities/</guid>
-      <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
     </item>
     
     <item>

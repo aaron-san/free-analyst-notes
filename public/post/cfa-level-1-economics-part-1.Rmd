@@ -1,7 +1,7 @@
 ---
 title: "CFA Level 1: Economics (part 1)"
 lastmod: "`r Sys.Date()`"
-slug: cfa-level-1-economics
+slug: cfa-level-1-economics-part-1
 categories: 
 - CFA Level 1
 tags:
@@ -179,5 +179,14 @@ Taxing economic rent is efficient.
 * Unions compete with non-union workers
 * Unions try to restrict entry into the field by setting limits and tests that potential workers must pass to enter the union (and possibly field)
 * Unions try to restrict employment below the competitive level hoping to expand employment opportunities for their members
-* A minimum wage rate is usually a price floor that creates a surplus of labor (more unemployment)												
+* A minimum wage rate is usually a price floor that creates a surplus of labor (more unemployment)
+
+
+<hr>
+
+<a id="nav__prev" href="../cfa-study-topics">Topics List</a>
+
+<!-- <a id="nav__next" href="../cfa-level-1-economics-part-2">Next</a> -->
+
+<br>
 										
