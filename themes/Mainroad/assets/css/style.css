@@ -174,20 +174,22 @@ h1 {
 h2 {
 	font-size: 24px;
 	font-size: 1.5rem;
+	color: bisque;
 }
 
 h3 {
-	font-size: 20px;
-	font-size: 1.25rem;
+	font-size: 18px;
+	font-size: 1rem;
+	color: burlywood;
 }
 
 h4 {
-	font-size: 18px;
-	font-size: 1.125rem;
+	font-size: 14px;
+	font-size: 1rem;
 }
 
 h5 {
-	font-size: 16px;
+	font-size: 12px;
 	font-size: 1rem;
 }
 
@@ -739,6 +741,11 @@ select {
       list-style: circle; /* disc; decimal; square; */
 }
 
+.content ol ol ul {
+      list-style: circle; /* disc; decimal; square; */
+}
+
+
 .content ol {
 	list-style: decimal;
 }
@@ -746,7 +753,18 @@ select {
 .content ul,
 .content ol {
 	margin: 0 0 20px 40px;
+	/* font-weight: bold; */
 }
+
+.content ol li {
+    font-weight: bold;
+}
+
+.content ol li ol li {
+    font-weight: normal;
+}
+
+
 
 .content ul ul,
 .content ol ol,

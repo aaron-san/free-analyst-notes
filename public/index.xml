@@ -6,10 +6,40 @@
     <description>Recent content on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 15:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
+      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Ethical and Professional Standards (part 2)</title>
+      <link>/post/cfa-level-1-ethical-and-professional-standards-part-2/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-2/</guid>
+      <description>Professional Standards (cont)Professional Standards (cont)Duties to ClientsLoyalty, Prudence, and CareHave a duty of loyalty, act with reasonable care, and exercise prudent judgment
+Must act for the clients’ interests and place their interests before their employer’s and own self-interest
+Make investment decisions in the context of the entire portfolio
+Allowed to make preparations for future employment while still employed, as long as it doesn’t affect loyalty to current employer</description>
+    </item>
+    
+    <item>
+      <title>CFA-Level-1-GIPS</title>
+      <link>/post/cfa-level-1-gips/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-gips/</guid>
+      <description>Global Investment Performance Standards (GIPS®)OverviewKey CharacteristicsRequirements of GIPS®Compliance StatementMajor Sections of GIPS®Compliance with GIPSGlobal Investment Performance Standards (GIPS®)OverviewGIPS® apply to investment management firms in order to benefit their current and prospective clientsFIRMS MUST be defined as an investment firm, subsidiary, or division held out to clients or PROSPECTIVE CLIENTS as a DISTINCT BUSINESS ENTITY.Should include all fee- and non-fee paying accounts in performance presentation</description>
+    </item>
     
     <item>
       <title>CFA Level 2: Fixed Income (part 1)</title>
@@ -54,24 +84,6 @@
       
       <guid>/post/cfa-level-1-equities/</guid>
       <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
-      <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
-      <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Ethical and Professional Standards (part 2)</title>
-      <link>/post/cfa-level-1-ethical-and-professional-standards-part-2/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-ethical-and-professional-standards-part-2/</guid>
-      <description>III Duties to Clients (cont.)III(D) Performance PresentationIII Duties to Clients (cont.)III(D) Performance Presentation* Must make reasonable efforts to ensure that performance presentation is fair, accurate, and complete* Must include terminated accounts as part of historical performance* Consider the sophistication of audience* No minimum performance history is required* Simulated results can be reported, as long as this is disclosed+ Must disclose if results are realized under the authority of another firm+ Footnote disclosure is not enough to comply with this standard+ Recommended to disseminate new recommendations to all clients who express an interest or for whom the investment is suitable+ Must cite specific source of investment performance (e.</description>
     </item>
     
     <item>
@@ -191,7 +203,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>CFA Level 1Ethical and Professional StandardsGIPS EquitiesEconomics Quantitative MethodsDerivatives Corporate FinancePortfolio Management
+      <description>CFA Level 1Ethical and Professional StandardsGIPSEquitiesEconomics Quantitative MethodsDerivatives Corporate FinancePortfolio Management
 CFA Level 2Alternative Investments
 CFA Level 3Alternative Investments
 </description>
