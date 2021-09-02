@@ -6,33 +6,11 @@
     <description>Recent content in Categories on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Ethical and Professional Standards</title>
-      <link>/categories/ethical-and-professional-standards/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ethical-and-professional-standards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GIPS</title>
-      <link>/categories/gips/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/gips/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 31 Aug 2021 09:29:21 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFA Level 2</title>
       <link>/categories/cfa-level-2/</link>
-      <pubDate>Tue, 18 Aug 2020 15:27:59 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 09:29:21 +0000</pubDate>
       
       <guid>/categories/cfa-level-2/</guid>
       <description></description>
@@ -41,9 +19,27 @@
     <item>
       <title>CFA Level 1</title>
       <link>/categories/cfa-level-1/</link>
-      <pubDate>Tue, 18 Aug 2020 11:38:59 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 09:29:06 +0000</pubDate>
       
       <guid>/categories/cfa-level-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethical and Professional Standards</title>
+      <link>/categories/ethical-and-professional-standards/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ethical-and-professional-standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIPS</title>
+      <link>/categories/gips/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gips/</guid>
       <description></description>
     </item>
     

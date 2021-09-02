@@ -6,15 +6,74 @@
     <description>Recent content in Posts on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 09:29:21 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFA Level 2: Alternative Investments (part 1)</title>
+      <link>/post/cfa-level-2-alternative-investments-part-1/</link>
+      <pubDate>Tue, 31 Aug 2021 09:29:21 +0000</pubDate>
+      
+      <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
+      <description>Alternative investments cover real estate, commodities, hedge funds, private equity, and more. Each of these has its own unique risk and reward features.</description>
+    </item>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFA Level 1: Quantitative Methods (part 2)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-2/</link>
+      <pubDate>Tue, 31 Aug 2021 09:29:06 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-2/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
     
+    <item>
+      <title>CFA Level 1: Quantitative Methods (part 1)</title>
+      <link>/post/cfa-level-1-quantitative-methods-part-1/</link>
+      <pubDate>Tue, 31 Aug 2021 09:29:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-quantitative-methods-part-1/</guid>
+      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 2: Fixed Income (part 1)</title>
+      <link>/post/cfa-level-2-fixed-income-part-1/</link>
+      <pubDate>Tue, 31 Aug 2021 09:28:23 +0000</pubDate>
+      
+      <guid>/post/cfa-level-2-fixed-income-part-1/</guid>
+      <description>Fixed income covers the topic of bonds and other coupon-like investment securities.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Alternative Investments (part 1)</title>
+      <link>/post/cfa-level-1-alternative-investments-part-1/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-alternative-investments-part-1/</guid>
+      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Economics (part 1)</title>
+      <link>/post/cfa-level-1-economics-part-1/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-economics-part-1/</guid>
+      <description>The CFA level 1 exam covers economics in great detail, specifically, macroeconomics. It covers demand and supply, market structures, and more.</description>
+    </item>
+    
+    <item>
+      <title>CFA Level 1: Equities</title>
+      <link>/post/cfa-level-1-equities/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cfa-level-1-equities/</guid>
+      <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
+    </item>
     
     <item>
       <title>CFA Level 1: Ethical and Professional Standards (part 1)</title>
       <link>/post/cfa-level-1-ethical-and-professional-standards-part-1/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-ethical-and-professional-standards-part-1/</guid>
       <description>Ethics is a commonly failed topic in the CFA exams. It can be quite tricky, so it is critical to thoroughly understand the topic. We hope our notes help you grasp the main points.</description>
@@ -23,7 +82,7 @@
     <item>
       <title>CFA Level 1: Ethical and Professional Standards (part 2)</title>
       <link>/post/cfa-level-1-ethical-and-professional-standards-part-2/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-ethical-and-professional-standards-part-2/</guid>
       <description>Professional Standards (cont)Professional Standards (cont)Duties to ClientsLoyalty, Prudence, and CareHave a duty of loyalty, act with reasonable care, and exercise prudent judgment
@@ -35,73 +94,10 @@
     <item>
       <title>CFA-Level-1-GIPS</title>
       <link>/post/cfa-level-1-gips/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-level-1-gips/</guid>
-      <description>Global Investment Performance Standards (GIPS®)OverviewKey CharacteristicsRequirements of GIPS®Compliance StatementMajor Sections of GIPS®Compliance with GIPSGlobal Investment Performance Standards (GIPS®)OverviewGIPS® apply to investment management firms in order to benefit their current and prospective clientsFIRMS MUST be defined as an investment firm, subsidiary, or division held out to clients or PROSPECTIVE CLIENTS as a DISTINCT BUSINESS ENTITY.Should include all fee- and non-fee paying accounts in performance presentation</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 2: Fixed Income (part 1)</title>
-      <link>/post/cfa-level-2-fixed-income-part-1/</link>
-      <pubDate>Tue, 18 Aug 2020 15:27:59 +0000</pubDate>
-      
-      <guid>/post/cfa-level-2-fixed-income-part-1/</guid>
-      <description>Fixed income covers the topic of bonds and other coupon-like investment securities.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 2: Alternative Investments (part 1)</title>
-      <link>/post/cfa-level-2-alternative-investments-part-1/</link>
-      <pubDate>Tue, 18 Aug 2020 12:31:24 +0000</pubDate>
-      
-      <guid>/post/cfa-level-2-alternative-investments-part-1/</guid>
-      <description>Alternative investments cover real estate, commodities, hedge funds, private equity, and more. Each of these has its own unique risk and reward features.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Quantitative Methods (part 2)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-2/</link>
-      <pubDate>Tue, 18 Aug 2020 11:38:59 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-2/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Economics (part 1)</title>
-      <link>/post/cfa-level-1-economics-part-1/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-economics-part-1/</guid>
-      <description>The CFA level 1 exam covers economics in great detail, specifically, macroeconomics. It covers demand and supply, market structures, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Equities</title>
-      <link>/post/cfa-level-1-equities/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-equities/</guid>
-      <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Quantitative Methods (part 1)</title>
-      <link>/post/cfa-level-1-quantitative-methods-part-1/</link>
-      <pubDate>Thu, 30 Jul 2020 13:04:09 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-quantitative-methods-part-1/</guid>
-      <description>Quantitative methods covers statistical topics including descriptive statistics, hypothesis testing, and more.</description>
-    </item>
-    
-    <item>
-      <title>CFA Level 1: Alternative Investments (part 1)</title>
-      <link>/post/cfa-level-1-alternative-investments-part-1/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cfa-level-1-alternative-investments-part-1/</guid>
-      <description>Alternative investments is a growing field full of potential profit opportunities. Learn about the basics here.</description>
+      <description>Global Investment Performance Standards (GIPS®)OverviewKey CharacteristicsRequirements of GIPS®Compliance StatementMajor Sections of GIPS®Compliance with GIPSGlobal Investment Performance Standards (GIPS®)OverviewGIPS® apply to investment management firms in order to benefit their current and prospective clientsFIRMS MUST be defined as an investment firm, subsidiary, or division held out to clients or PROSPECTIVE CLIENTS as a DISTINCT BUSINESS ENTITY.</description>
     </item>
     
     <item>
@@ -123,7 +119,7 @@ Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph According
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -190,7 +186,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/cfa-study-topics/</guid>
-      <description>CFA Level 1Ethical and Professional StandardsGIPSEquitiesEconomics Quantitative MethodsDerivatives Corporate FinancePortfolio Management
+      <description>CFA Level 1Ethical and Professional StandardsGIPSEquitiesEconomics Quantitative MethodsDerivatives Corporate FinancePortfolio Management
 CFA Level 2Alternative Investments
 CFA Level 3Alternative Investments
 </description>
