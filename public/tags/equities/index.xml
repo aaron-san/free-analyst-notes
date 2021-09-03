@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equities on Free Analyst Notes</title>
-    <link>https://www.freeanalystnotes.com//tags/equities/</link>
+    <link>/tags/equities/</link>
     <description>Recent content in Equities on Free Analyst Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.freeanalystnotes.com//tags/equities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/equities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFA Level 1: Equities</title>
-      <link>https://www.freeanalystnotes.com//post/cfa-level-1-equities/</link>
+      <link>/post/cfa-level-1-equities/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.freeanalystnotes.com//post/cfa-level-1-equities/</guid>
+      <guid>/post/cfa-level-1-equities/</guid>
       <description>The CFA Level 1 exam covers the topic of Equities which includes market orders, indexes, market structure, and more.</description>
     </item>
     
